@@ -1,0 +1,761 @@
+Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Sh,SoT,Dist,FK,PK,PKatt,Team
+1,Fri,Away,W,3,0,Burnley,1.9,0.3,65.0,17.0,8.0,13.9,0.0,0,0,Manchester City
+2,Sat,Home,W,1,0,Newcastle United,1.0,0.3,59.0,14.0,4.0,17.9,0.0,0,0,Manchester City
+3,Sun,Away,W,2,1,Sheffield United,3.5,0.7,79.0,29.0,9.0,17.3,2.0,0,1,Manchester City
+4,Sat,Home,W,5,1,Fulham,2.2,1.4,68.0,6.0,4.0,14.8,0.0,1,1,Manchester City
+5,Sat,Away,W,3,1,West Ham United,3.6,0.9,68.0,29.0,13.0,16.4,1.0,0,0,Manchester City
+6,Sat,Home,W,2,0,Nott'ham Forest,1.3,1.0,57.0,7.0,4.0,17.2,2.0,0,0,Manchester City
+7,Sat,Away,L,1,2,Wolverhampton Wanderers,0.9,0.4,68.0,23.0,8.0,19.3,1.0,0,0,Manchester City
+8,Sun,Away,L,0,1,Arsenal,0.5,0.4,51.0,4.0,0.0,14.9,0.0,0,0,Manchester City
+9,Sat,Home,W,2,1,Brighton and Hove Albion,0.8,0.8,55.0,10.0,5.0,18.8,1.0,0,0,Manchester City
+10,Sun,Away,W,3,0,Manchester Utd,4.0,0.9,60.0,20.0,9.0,17.2,2.0,1,1,Manchester City
+11,Sat,Home,W,6,1,AFC Bournemouth,1.9,0.9,65.0,21.0,8.0,16.4,0.0,0,0,Manchester City
+12,Sun,Away,D,4,4,Chelsea,2.9,2.9,55.0,14.0,9.0,16.6,1.0,1,1,Manchester City
+13,Sat,Home,D,1,1,Liverpool,1.3,0.6,59.0,16.0,5.0,16.3,1.0,0,0,Manchester City
+14,Sun,Home,D,3,3,Tottenham Hotspur,2.6,0.5,55.0,17.0,4.0,13.4,0.0,0,0,Manchester City
+15,Wed,Away,L,0,1,Aston Villa,0.6,2.3,54.0,2.0,2.0,7.4,0.0,0,0,Manchester City
+16,Sun,Away,W,2,1,Luton Town,1.6,0.3,65.0,18.0,6.0,18.7,1.0,0,0,Manchester City
+17,Sat,Home,D,2,2,Crystal Palace,1.6,1.8,74.0,19.0,9.0,18.2,0.0,0,0,Manchester City
+19,Wed,Away,W,3,1,Everton,2.4,1.0,72.0,22.0,8.0,19.5,1.0,1,1,Manchester City
+20,Sat,Home,W,2,0,Sheffield United,2.2,0.3,80.0,18.0,4.0,17.4,0.0,0,0,Manchester City
+21,Sat,Away,W,3,2,Newcastle United,3.0,1.3,72.0,27.0,11.0,19.3,2.0,0,0,Manchester City
+22,Wed,Home,W,3,1,Burnley,1.7,1.4,74.0,14.0,4.0,15.8,1.0,0,0,Manchester City
+23,Mon,Away,W,3,1,Brentford,2.1,1.0,72.0,25.0,15.0,19.2,0.0,0,0,Manchester City
+24,Sat,Home,W,2,0,Everton,1.6,0.3,72.0,19.0,3.0,17.4,0.0,0,0,Manchester City
+25,Sat,Home,D,1,1,Chelsea,2.6,1.4,70.0,31.0,5.0,15.9,1.0,0,0,Manchester City
+18,Tue,Home,W,1,0,Brentford,2.3,0.4,70.0,25.0,10.0,17.6,0.0,0,0,Manchester City
+26,Sat,Away,W,1,0,AFC Bournemouth,1.6,0.9,62.0,15.0,6.0,15.5,1.0,0,0,Manchester City
+27,Sun,Home,W,3,1,Manchester Utd,3.3,0.2,73.0,27.0,8.0,17.7,1.0,0,0,Manchester City
+28,Sun,Away,D,1,1,Liverpool,1.6,2.7,47.0,10.0,6.0,18.6,0.0,0,0,Manchester City
+30,Sun,Home,D,0,0,Arsenal,1.0,0.7,72.0,12.0,1.0,14.2,0.0,0,0,Manchester City
+31,Wed,Home,W,4,1,Aston Villa,3.4,0.8,67.0,25.0,11.0,15.9,2.0,0,0,Manchester City
+32,Sat,Away,W,4,2,Crystal Palace,1.9,1.1,75.0,18.0,8.0,16.1,0.0,0,0,Manchester City
+33,Sat,Home,W,5,1,Luton Town,4.2,0.5,73.0,36.0,12.0,16.9,0.0,1,1,Manchester City
+29,Thu,Away,W,4,0,Brighton and Hove Albion,1.4,0.6,64.0,14.0,6.0,17.0,1.0,0,0,Manchester City
+35,Sun,Away,W,2,0,Nott'ham Forest,0.9,1.9,66.0,11.0,5.0,18.7,1.0,0,0,Manchester City
+36,Sat,Home,W,5,1,Wolverhampton Wanderers,3.7,0.3,58.0,18.0,10.0,15.3,0.0,2,2,Manchester City
+37,Sat,Away,W,4,0,Fulham,3.2,0.1,64.0,15.0,8.0,17.6,0.0,1,1,Manchester City
+34,Tue,Away,W,2,0,Tottenham Hotspur,2.4,1.7,47.0,7.0,4.0,14.5,0.0,1,1,Manchester City
+38,Sun,Home,W,3,1,West Ham United,1.9,0.4,71.0,28.0,12.0,17.9,2.0,0,0,Manchester City
+1,Sat,Home,W,2,1,Nott'ham Forest,0.8,1.2,78.0,15.0,7.0,19.1,0.0,0,0,Arsenal
+2,Mon,Away,W,1,0,Crystal Palace,2.0,1.0,53.0,13.0,2.0,16.4,0.0,1,1,Arsenal
+3,Sat,Home,D,2,2,Fulham,3.2,0.6,71.0,18.0,9.0,13.8,0.0,1,1,Arsenal
+4,Sun,Home,W,3,1,Manchester Utd,2.3,0.9,55.0,17.0,5.0,15.0,0.0,0,0,Arsenal
+5,Sun,Away,W,1,0,Everton,1.0,0.3,74.0,13.0,4.0,17.4,0.0,0,0,Arsenal
+6,Sun,Home,D,2,2,Tottenham Hotspur,1.8,1.4,47.0,12.0,4.0,16.9,0.0,1,1,Arsenal
+7,Sat,Away,W,4,0,AFC Bournemouth,3.4,0.6,57.0,13.0,6.0,15.5,0.0,2,2,Arsenal
+8,Sun,Home,W,1,0,Manchester City,0.4,0.5,49.0,12.0,2.0,19.2,0.0,0,0,Arsenal
+9,Sat,Away,D,2,2,Chelsea,1.0,1.3,56.0,13.0,3.0,14.3,0.0,0,0,Arsenal
+10,Sat,Home,W,5,0,Sheffield United,2.8,0.0,67.0,12.0,6.0,17.0,0.0,1,1,Arsenal
+11,Sat,Away,L,0,1,Newcastle United,0.6,1.0,58.0,14.0,1.0,20.7,0.0,0,0,Arsenal
+12,Sat,Home,W,3,1,Burnley,1.8,0.3,63.0,16.0,6.0,13.8,0.0,0,0,Arsenal
+13,Sat,Away,W,1,0,Brentford,1.6,1.1,63.0,15.0,4.0,15.2,0.0,0,0,Arsenal
+14,Sat,Home,W,2,1,Wolverhampton Wanderers,2.8,0.7,57.0,19.0,6.0,15.6,0.0,0,0,Arsenal
+15,Tue,Away,W,4,3,Luton Town,2.2,0.5,66.0,23.0,9.0,15.5,0.0,0,0,Arsenal
+16,Sat,Away,L,0,1,Aston Villa,1.4,0.6,61.0,12.0,3.0,14.8,1.0,0,0,Arsenal
+17,Sun,Home,W,2,0,Brighton and Hove Albion,2.3,0.7,49.0,26.0,8.0,14.2,0.0,0,0,Arsenal
+18,Sat,Away,D,1,1,Liverpool,0.7,1.0,48.0,13.0,2.0,17.2,0.0,0,0,Arsenal
+19,Thu,Home,L,0,2,West Ham United,2.7,1.4,73.0,30.0,8.0,16.8,0.0,0,0,Arsenal
+20,Sun,Away,L,1,2,Fulham,1.6,1.2,60.0,13.0,3.0,15.4,1.0,0,0,Arsenal
+21,Sat,Home,W,5,0,Crystal Palace,3.3,0.3,60.0,21.0,7.0,16.7,0.0,0,0,Arsenal
+22,Tue,Away,W,2,1,Nott'ham Forest,1.2,0.5,73.0,19.0,3.0,17.6,0.0,0,0,Arsenal
+23,Sun,Home,W,3,1,Liverpool,3.5,0.4,43.0,15.0,7.0,14.2,0.0,0,0,Arsenal
+24,Sun,Away,W,6,0,West Ham United,3.6,0.2,70.0,24.0,11.0,16.0,0.0,1,1,Arsenal
+25,Sat,Away,W,5,0,Burnley,2.3,0.3,64.0,15.0,6.0,16.8,1.0,1,1,Arsenal
+26,Sat,Home,W,4,1,Newcastle United,2.8,0.2,55.0,18.0,7.0,13.8,0.0,0,0,Arsenal
+27,Mon,Away,W,6,0,Sheffield United,2.3,0.2,80.0,22.0,9.0,15.6,1.0,0,0,Arsenal
+28,Sat,Home,W,2,1,Brentford,1.3,1.0,71.0,17.0,5.0,16.4,0.0,0,0,Arsenal
+30,Sun,Away,D,0,0,Manchester City,0.7,1.0,28.0,6.0,2.0,14.2,0.0,0,0,Arsenal
+31,Wed,Home,W,2,0,Luton Town,0.7,0.3,58.0,13.0,4.0,17.8,0.0,0,0,Arsenal
+32,Sat,Away,W,3,0,Brighton and Hove Albion,3.4,0.5,46.0,19.0,6.0,12.4,0.0,1,1,Arsenal
+33,Sun,Home,L,0,2,Aston Villa,1.6,0.9,52.0,18.0,4.0,17.2,1.0,0,0,Arsenal
+34,Sat,Away,W,2,0,Wolverhampton Wanderers,1.2,0.2,54.0,24.0,9.0,17.8,0.0,0,0,Arsenal
+29,Tue,Home,W,5,0,Chelsea,3.3,1.6,45.0,27.0,10.0,16.3,0.0,0,0,Arsenal
+35,Sun,Away,W,3,2,Tottenham Hotspur,1.0,2.3,38.0,9.0,3.0,14.3,1.0,0,0,Arsenal
+36,Sat,Home,W,3,0,AFC Bournemouth,3.3,0.5,55.0,24.0,8.0,14.0,0.0,1,1,Arsenal
+37,Sun,Away,W,1,0,Manchester Utd,1.5,0.5,46.0,11.0,5.0,13.4,0.0,0,0,Arsenal
+38,Sun,Home,W,2,1,Everton,2.9,0.6,68.0,26.0,5.0,14.1,0.0,0,0,Arsenal
+1,Sun,Away,D,1,1,Chelsea,1.3,1.4,35.0,13.0,1.0,17.8,0.0,0,0,Liverpool
+2,Sat,Home,W,3,1,AFC Bournemouth,3.0,1.3,64.0,25.0,9.0,16.8,1.0,0,1,Liverpool
+3,Sun,Away,W,2,1,Newcastle United,0.9,2.0,41.0,9.0,4.0,17.2,1.0,0,0,Liverpool
+4,Sun,Home,W,3,0,Aston Villa,2.5,0.7,63.0,17.0,4.0,14.7,0.0,0,0,Liverpool
+5,Sat,Away,W,3,1,Wolverhampton Wanderers,2.5,0.6,65.0,16.0,5.0,15.8,0.0,0,0,Liverpool
+6,Sun,Home,W,3,1,West Ham United,3.0,1.1,63.0,21.0,6.0,19.3,2.0,1,1,Liverpool
+7,Sat,Away,L,1,2,Tottenham Hotspur,1.3,2.2,36.0,12.0,4.0,14.9,0.0,0,0,Liverpool
+8,Sun,Away,D,2,2,Brighton and Hove Albion,2.3,2.3,54.0,13.0,3.0,18.8,0.0,1,1,Liverpool
+9,Sat,Home,W,2,0,Everton,2.2,0.1,77.0,25.0,5.0,22.4,1.0,1,1,Liverpool
+10,Sun,Home,W,3,0,Nott'ham Forest,3.2,0.4,72.0,21.0,8.0,19.5,2.0,0,0,Liverpool
+11,Sun,Away,D,1,1,Luton Town,2.6,0.8,73.0,24.0,6.0,17.5,0.0,0,0,Liverpool
+12,Sun,Home,W,3,0,Brentford,1.7,1.6,58.0,17.0,10.0,19.0,0.0,0,0,Liverpool
+13,Sat,Away,D,1,1,Manchester City,0.6,1.3,41.0,8.0,3.0,15.9,0.0,0,0,Liverpool
+14,Sun,Home,W,4,3,Fulham,2.1,1.2,61.0,26.0,12.0,18.9,1.0,0,0,Liverpool
+15,Wed,Away,W,2,0,Sheffield United,1.7,1.0,75.0,15.0,8.0,16.4,0.0,0,0,Liverpool
+16,Sat,Away,W,2,1,Crystal Palace,1.2,1.7,76.0,14.0,2.0,17.4,0.0,0,0,Liverpool
+17,Sun,Home,D,0,0,Manchester Utd,2.3,0.8,68.0,34.0,8.0,17.7,0.0,0,0,Liverpool
+18,Sat,Home,D,1,1,Arsenal,1.0,0.7,52.0,13.0,3.0,20.1,1.0,0,0,Liverpool
+19,Tue,Away,W,2,0,Burnley,1.8,0.8,68.0,19.0,10.0,17.4,0.0,0,0,Liverpool
+20,Mon,Home,W,4,2,Newcastle United,7.0,0.6,61.0,32.0,12.0,16.2,0.0,1,2,Liverpool
+21,Sun,Away,W,4,0,AFC Bournemouth,1.5,1.4,60.0,14.0,7.0,19.2,0.0,0,0,Liverpool
+22,Wed,Home,W,4,1,Chelsea,2.9,0.6,50.0,27.0,13.0,19.9,2.0,0,1,Liverpool
+23,Sun,Away,L,1,3,Arsenal,0.4,3.5,57.0,10.0,1.0,19.7,0.0,0,0,Liverpool
+24,Sat,Home,W,3,1,Burnley,2.8,1.3,70.0,25.0,10.0,15.4,0.0,0,0,Liverpool
+25,Sat,Away,W,4,1,Brentford,2.8,1.6,62.0,15.0,8.0,15.9,1.0,0,0,Liverpool
+26,Wed,Home,W,4,1,Luton Town,3.3,0.9,60.0,29.0,13.0,16.9,0.0,0,0,Liverpool
+27,Sat,Away,W,1,0,Nott'ham Forest,2.0,1.0,69.0,22.0,1.0,14.6,0.0,0,0,Liverpool
+28,Sun,Home,D,1,1,Manchester City,2.7,1.6,53.0,18.0,5.0,19.0,1.0,1,1,Liverpool
+30,Sun,Home,W,2,1,Brighton and Hove Albion,2.8,0.5,55.0,30.0,8.0,16.6,0.0,0,0,Liverpool
+31,Thu,Home,W,3,1,Sheffield United,1.8,0.6,82.0,29.0,9.0,18.1,1.0,0,0,Liverpool
+32,Sun,Away,D,2,2,Manchester Utd,3.6,0.7,62.0,27.0,6.0,17.5,0.0,1,1,Liverpool
+33,Sun,Home,L,0,1,Crystal Palace,2.7,2.0,69.0,21.0,5.0,12.5,1.0,0,0,Liverpool
+34,Sun,Away,W,3,1,Fulham,1.0,0.8,60.0,14.0,7.0,18.8,2.0,0,0,Liverpool
+29,Wed,Away,L,0,2,Everton,2.1,1.2,75.0,23.0,7.0,16.8,0.0,0,0,Liverpool
+35,Sat,Away,D,2,2,West Ham United,1.7,0.7,71.0,28.0,8.0,16.6,1.0,0,0,Liverpool
+36,Sun,Home,W,4,2,Tottenham Hotspur,3.3,1.2,44.0,25.0,12.0,15.3,0.0,0,0,Liverpool
+37,Mon,Away,D,3,3,Aston Villa,1.7,3.1,59.0,14.0,7.0,17.1,0.0,0,0,Liverpool
+38,Sun,Home,W,2,0,Wolverhampton Wanderers,4.5,0.5,67.0,36.0,13.0,14.8,0.0,0,0,Liverpool
+1,Sat,Away,L,1,5,Newcastle United,1.8,3.3,48.0,16.0,6.0,14.5,1.0,0,0,AstonVilla
+2,Sun,Home,W,4,0,Everton,2.9,0.6,60.0,12.0,6.0,18.5,0.0,1,1,AstonVilla
+3,Sun,Away,W,3,1,Burnley,2.5,0.7,43.0,16.0,6.0,13.4,0.0,0,0,AstonVilla
+4,Sun,Away,L,0,3,Liverpool,0.7,2.5,37.0,9.0,3.0,12.5,0.0,0,0,AstonVilla
+5,Sat,Home,W,3,1,Crystal Palace,3.0,1.2,66.0,15.0,4.0,16.2,0.0,1,1,AstonVilla
+6,Sun,Away,W,1,0,Chelsea,1.0,1.3,47.0,15.0,7.0,18.2,1.0,0,0,AstonVilla
+7,Sat,Home,W,6,1,Brighton and Hove Albion,1.6,1.7,39.0,19.0,9.0,17.9,1.0,0,0,AstonVilla
+8,Sun,Away,D,1,1,Wolverhampton Wanderers,1.6,1.7,53.0,18.0,4.0,16.6,0.0,0,0,AstonVilla
+9,Sun,Home,W,4,1,West Ham United,1.9,1.1,58.0,14.0,6.0,19.6,0.0,1,1,AstonVilla
+10,Sun,Home,W,3,1,Luton Town,2.3,0.5,70.0,17.0,6.0,14.5,0.0,0,0,AstonVilla
+11,Sun,Away,L,0,2,Nott'ham Forest,1.2,0.4,73.0,13.0,3.0,14.0,0.0,0,0,AstonVilla
+12,Sun,Home,W,3,1,Fulham,3.0,0.9,51.0,12.0,6.0,13.5,0.0,0,0,AstonVilla
+13,Sun,Away,W,2,1,Tottenham Hotspur,1.7,2.3,38.0,15.0,5.0,16.6,1.0,0,0,AstonVilla
+14,Sun,Away,D,2,2,AFC Bournemouth,0.7,2.0,62.0,11.0,3.0,19.2,1.0,0,0,AstonVilla
+15,Wed,Home,W,1,0,Manchester City,2.3,0.6,46.0,22.0,7.0,18.9,0.0,0,0,AstonVilla
+16,Sat,Home,W,1,0,Arsenal,0.6,1.4,39.0,10.0,3.0,20.8,1.0,0,0,AstonVilla
+17,Sun,Away,W,2,1,Brentford,1.4,0.5,66.0,15.0,5.0,16.7,0.0,0,0,AstonVilla
+18,Fri,Home,D,1,1,Sheffield United,0.9,0.6,77.0,12.0,4.0,17.5,0.0,0,0,AstonVilla
+19,Tue,Away,L,2,3,Manchester Utd,1.7,1.1,54.0,10.0,3.0,14.6,1.0,0,0,AstonVilla
+20,Sat,Home,W,3,2,Burnley,3.2,1.2,64.0,18.0,6.0,16.9,1.0,1,1,AstonVilla
+21,Sun,Away,D,0,0,Everton,1.2,1.1,68.0,16.0,4.0,14.2,0.0,0,0,AstonVilla
+22,Tue,Home,L,1,3,Newcastle United,1.4,2.6,61.0,12.0,5.0,14.3,0.0,0,0,AstonVilla
+23,Sat,Away,W,5,0,Sheffield United,2.2,1.4,63.0,14.0,9.0,15.8,1.0,0,0,AstonVilla
+24,Sun,Home,L,1,2,Manchester Utd,2.4,1.8,56.0,23.0,9.0,16.7,1.0,0,0,AstonVilla
+25,Sat,Away,W,2,1,Fulham,1.5,1.5,48.0,12.0,3.0,16.8,1.0,0,0,AstonVilla
+26,Sat,Home,W,4,2,Nott'ham Forest,3.6,2.6,58.0,16.0,6.0,14.3,2.0,0,0,AstonVilla
+27,Sat,Away,W,3,2,Luton Town,1.9,1.8,54.0,12.0,8.0,12.5,0.0,0,0,AstonVilla
+28,Sun,Home,L,0,4,Tottenham Hotspur,0.8,1.5,32.0,10.0,1.0,14.1,0.0,0,0,AstonVilla
+29,Sun,Away,D,1,1,West Ham United,0.7,2.0,69.0,13.0,5.0,20.6,0.0,0,0,AstonVilla
+30,Sat,Home,W,2,0,Wolverhampton Wanderers,1.0,1.5,48.0,11.0,5.0,14.7,0.0,0,0,AstonVilla
+31,Wed,Away,L,1,4,Manchester City,0.8,3.4,33.0,8.0,3.0,12.4,0.0,0,0,AstonVilla
+32,Sat,Home,D,3,3,Brentford,1.5,1.5,69.0,11.0,3.0,12.1,1.0,0,0,AstonVilla
+33,Sun,Away,W,2,0,Arsenal,0.9,1.6,48.0,11.0,2.0,18.8,1.0,0,0,AstonVilla
+34,Sun,Home,W,3,1,AFC Bournemouth,2.4,1.8,56.0,15.0,5.0,14.8,0.0,0,0,AstonVilla
+35,Sat,Home,D,2,2,Chelsea,1.1,1.6,29.0,9.0,4.0,15.0,0.0,0,0,AstonVilla
+36,Sun,Away,L,0,1,Brighton and Hove Albion,0.1,2.5,48.0,2.0,1.0,23.2,0.0,0,0,AstonVilla
+37,Mon,Home,D,3,3,Liverpool,3.1,1.7,41.0,19.0,5.0,15.2,0.0,0,0,AstonVilla
+38,Sun,Away,L,0,5,Crystal Palace,0.9,2.5,46.0,8.0,2.0,13.8,0.0,0,0,AstonVilla
+1,Sun,Away,D,2,2,Brentford,1.3,2.2,69.0,18.0,6.0,19.6,0.0,0,0,TottenhamHotspur
+2,Sat,Home,W,2,0,Manchester Utd,1.7,2.1,55.0,17.0,6.0,13.8,0.0,0,0,TottenhamHotspur
+3,Sat,Away,W,2,0,AFC Bournemouth,2.1,0.7,56.0,17.0,6.0,16.6,1.0,0,0,TottenhamHotspur
+4,Sat,Away,W,5,2,Burnley,2.2,1.3,53.0,21.0,11.0,19.3,0.0,0,0,TottenhamHotspur
+5,Sat,Home,W,2,1,Sheffield United,2.1,0.7,70.0,28.0,10.0,16.4,0.0,0,0,TottenhamHotspur
+6,Sun,Away,D,2,2,Arsenal,1.4,1.8,53.0,13.0,5.0,16.0,0.0,0,0,TottenhamHotspur
+7,Sat,Home,W,2,1,Liverpool,2.2,1.3,64.0,24.0,8.0,19.8,0.0,0,0,TottenhamHotspur
+8,Sat,Away,W,1,0,Luton Town,1.9,0.8,66.0,15.0,4.0,16.9,1.0,0,0,TottenhamHotspur
+9,Mon,Home,W,2,0,Fulham,1.5,1.0,55.0,15.0,5.0,17.2,0.0,0,0,TottenhamHotspur
+10,Fri,Away,W,2,1,Crystal Palace,1.1,0.6,75.0,10.0,1.0,19.5,1.0,0,0,TottenhamHotspur
+11,Mon,Home,L,1,4,Chelsea,0.9,4.1,40.0,8.0,5.0,23.5,1.0,0,0,TottenhamHotspur
+12,Sat,Away,L,1,2,Wolverhampton Wanderers,0.7,2.1,58.0,6.0,2.0,17.5,0.0,0,0,TottenhamHotspur
+13,Sun,Home,L,1,2,Aston Villa,2.3,1.7,62.0,18.0,7.0,14.0,0.0,0,0,TottenhamHotspur
+14,Sun,Away,D,3,3,Manchester City,0.5,2.6,45.0,8.0,4.0,20.7,0.0,0,0,TottenhamHotspur
+15,Thu,Home,L,1,2,West Ham United,1.8,2.2,74.0,23.0,6.0,17.1,1.0,0,0,TottenhamHotspur
+16,Sun,Home,W,4,1,Newcastle United,3.8,1.7,56.0,22.0,10.0,15.5,0.0,1,1,TottenhamHotspur
+17,Fri,Away,W,2,0,Nott'ham Forest,1.5,1.3,66.0,12.0,6.0,12.5,0.0,0,0,TottenhamHotspur
+18,Sat,Home,W,2,1,Everton,1.5,1.8,61.0,13.0,6.0,15.1,0.0,0,0,TottenhamHotspur
+19,Thu,Away,L,2,4,Brighton and Hove Albion,2.3,3.2,55.0,19.0,3.0,15.2,1.0,0,0,TottenhamHotspur
+20,Sun,Home,W,3,1,AFC Bournemouth,2.3,1.7,50.0,12.0,6.0,14.7,0.0,0,0,TottenhamHotspur
+21,Sun,Away,D,2,2,Manchester Utd,1.2,0.8,63.0,16.0,5.0,14.4,0.0,0,0,TottenhamHotspur
+22,Wed,Home,W,3,2,Brentford,2.9,1.6,67.0,19.0,5.0,14.3,0.0,0,0,TottenhamHotspur
+23,Sat,Away,D,2,2,Everton,1.0,2.6,57.0,9.0,6.0,17.8,0.0,0,0,TottenhamHotspur
+24,Sat,Home,W,2,1,Brighton and Hove Albion,1.6,1.2,52.0,16.0,6.0,17.1,1.0,0,0,TottenhamHotspur
+25,Sat,Home,L,1,2,Wolverhampton Wanderers,1.6,1.8,71.0,15.0,4.0,14.3,0.0,0,0,TottenhamHotspur
+27,Sat,Home,W,3,1,Crystal Palace,1.9,0.3,78.0,14.0,6.0,13.5,0.0,0,0,TottenhamHotspur
+28,Sun,Away,W,4,0,Aston Villa,1.5,0.8,68.0,9.0,5.0,14.9,0.0,0,0,TottenhamHotspur
+29,Sat,Away,L,0,3,Fulham,2.4,2.6,57.0,14.0,5.0,14.0,0.0,0,0,TottenhamHotspur
+30,Sat,Home,W,2,1,Luton Town,2.9,0.5,70.0,17.0,2.0,14.5,1.0,0,0,TottenhamHotspur
+31,Tue,Away,D,1,1,West Ham United,1.0,1.5,67.0,13.0,4.0,17.4,0.0,0,0,TottenhamHotspur
+32,Sun,Home,W,3,1,Nott'ham Forest,1.5,1.5,63.0,17.0,7.0,20.2,1.0,0,0,TottenhamHotspur
+33,Sat,Away,L,0,4,Newcastle United,0.8,2.8,72.0,11.0,2.0,19.0,0.0,0,0,TottenhamHotspur
+35,Sun,Home,L,2,3,Arsenal,2.3,1.0,62.0,14.0,1.0,16.8,0.0,1,1,TottenhamHotspur
+26,Thu,Away,L,0,2,Chelsea,1.6,2.2,63.0,19.0,3.0,16.9,0.0,0,0,TottenhamHotspur
+36,Sun,Away,L,2,4,Liverpool,1.2,3.3,56.0,11.0,6.0,21.6,1.0,0,0,TottenhamHotspur
+37,Sat,Home,W,2,1,Burnley,2.7,0.7,63.0,21.0,9.0,16.0,0.0,0,0,TottenhamHotspur
+34,Tue,Home,L,0,2,Manchester City,1.7,2.4,53.0,10.0,5.0,15.0,0.0,0,0,TottenhamHotspur
+38,Sun,Away,W,3,0,Sheffield United,3.1,1.0,75.0,18.0,9.0,14.4,1.0,0,0,TottenhamHotspur
+1,Sun,Home,D,1,1,Liverpool,1.4,1.3,65.0,10.0,4.0,13.2,1.0,0,0,Chelsea
+2,Sun,Away,L,1,3,West Ham United,2.5,1.8,75.0,16.0,3.0,17.1,0.0,0,1,Chelsea
+3,Fri,Home,W,3,0,Luton Town,2.2,0.4,67.0,19.0,8.0,14.2,1.0,0,0,Chelsea
+4,Sat,Home,L,0,1,Nott'ham Forest,2.3,0.8,75.0,21.0,2.0,17.7,2.0,0,0,Chelsea
+5,Sun,Away,D,0,0,AFC Bournemouth,1.8,1.0,64.0,14.0,6.0,15.0,1.0,0,0,Chelsea
+6,Sun,Home,L,0,1,Aston Villa,1.3,1.0,53.0,10.0,4.0,17.8,0.0,0,0,Chelsea
+7,Mon,Away,W,2,0,Fulham,1.7,1.1,44.0,11.0,4.0,19.8,1.0,0,0,Chelsea
+8,Sat,Away,W,4,1,Burnley,1.9,0.7,62.0,8.0,4.0,18.1,0.0,1,1,Chelsea
+9,Sat,Home,D,2,2,Arsenal,1.3,1.0,44.0,10.0,4.0,20.4,0.0,1,1,Chelsea
+10,Sat,Home,L,0,2,Brentford,1.9,2.2,68.0,17.0,2.0,16.1,1.0,0,0,Chelsea
+11,Mon,Away,W,4,1,Tottenham Hotspur,4.1,0.9,60.0,16.0,6.0,16.8,0.0,1,1,Chelsea
+12,Sun,Home,D,4,4,Manchester City,2.9,2.9,45.0,16.0,8.0,19.1,1.0,1,1,Chelsea
+13,Sat,Away,L,1,4,Newcastle United,0.5,2.4,46.0,7.0,4.0,18.4,2.0,0,0,Chelsea
+14,Sun,Home,W,3,2,Brighton and Hove Albion,2.1,1.1,32.0,7.0,3.0,19.6,0.0,1,1,Chelsea
+15,Wed,Away,L,1,2,Manchester Utd,1.5,4.1,55.0,13.0,3.0,15.0,0.0,0,0,Chelsea
+16,Sun,Away,L,0,2,Everton,0.9,1.2,71.0,16.0,4.0,18.5,1.0,0,0,Chelsea
+17,Sat,Home,W,2,0,Sheffield United,3.1,0.4,78.0,15.0,6.0,17.2,1.0,0,0,Chelsea
+18,Sun,Away,L,1,2,Wolverhampton Wanderers,2.0,1.3,68.0,16.0,4.0,17.4,1.0,0,0,Chelsea
+19,Wed,Home,W,2,1,Crystal Palace,2.6,1.1,63.0,8.0,2.0,15.3,0.0,1,1,Chelsea
+20,Sat,Away,W,3,2,Luton Town,1.5,2.3,48.0,12.0,8.0,17.5,0.0,0,0,Chelsea
+21,Sat,Home,W,1,0,Fulham,2.2,0.8,55.0,16.0,2.0,17.5,0.0,1,1,Chelsea
+22,Wed,Away,L,1,4,Liverpool,0.6,2.9,50.0,4.0,3.0,18.8,0.0,0,0,Chelsea
+23,Sun,Home,L,2,4,Wolverhampton Wanderers,1.7,2.0,64.0,15.0,4.0,14.5,0.0,0,0,Chelsea
+24,Mon,Away,W,3,1,Crystal Palace,1.4,0.6,77.0,14.0,5.0,15.3,0.0,0,0,Chelsea
+25,Sat,Away,D,1,1,Manchester City,1.4,2.6,30.0,9.0,6.0,12.8,0.0,0,0,Chelsea
+27,Sat,Away,D,2,2,Brentford,1.8,1.8,67.0,17.0,5.0,19.5,0.0,0,0,Chelsea
+28,Mon,Home,W,3,2,Newcastle United,1.6,0.7,44.0,12.0,7.0,19.7,0.0,0,0,Chelsea
+30,Sat,Home,D,2,2,Burnley,4.2,1.6,69.0,32.0,12.0,17.8,0.0,1,1,Chelsea
+31,Thu,Home,W,4,3,Manchester Utd,3.0,1.5,57.0,26.0,8.0,19.0,1.0,2,2,Chelsea
+32,Sun,Away,D,2,2,Sheffield United,0.3,1.4,68.0,6.0,3.0,18.5,0.0,0,0,Chelsea
+33,Mon,Home,W,6,0,Everton,3.1,1.5,58.0,13.0,9.0,18.8,0.0,1,1,Chelsea
+29,Tue,Away,L,0,5,Arsenal,1.6,3.3,55.0,7.0,1.0,13.0,1.0,0,0,Chelsea
+35,Sat,Away,D,2,2,Aston Villa,1.6,1.1,71.0,21.0,5.0,21.7,1.0,0,0,Chelsea
+26,Thu,Home,W,2,0,Tottenham Hotspur,2.2,1.6,37.0,16.0,4.0,16.1,2.0,0,0,Chelsea
+36,Sun,Home,W,5,0,West Ham United,4.1,0.9,69.0,25.0,14.0,15.7,1.0,0,0,Chelsea
+37,Sat,Away,W,3,2,Nott'ham Forest,1.6,1.5,67.0,12.0,5.0,12.0,1.0,0,0,Chelsea
+34,Wed,Away,W,2,1,Brighton and Hove Albion,1.5,1.3,45.0,14.0,6.0,20.3,2.0,0,0,Chelsea
+38,Sun,Home,W,2,1,AFC Bournemouth,1.1,2.2,61.0,16.0,6.0,18.2,0.0,0,0,Chelsea
+1,Sat,Home,W,5,1,Aston Villa,3.3,1.8,52.0,17.0,12.0,13.2,0.0,0,0,NewcastleUnited
+2,Sat,Away,L,0,1,Manchester City,0.3,1.0,41.0,7.0,1.0,20.3,0.0,0,0,NewcastleUnited
+3,Sun,Home,L,1,2,Liverpool,2.0,0.9,59.0,23.0,8.0,18.3,1.0,0,0,NewcastleUnited
+4,Sat,Away,L,1,3,Brighton and Hove Albion,1.2,1.3,44.0,9.0,2.0,14.6,0.0,0,0,NewcastleUnited
+5,Sat,Home,W,1,0,Brentford,1.4,0.5,56.0,8.0,1.0,20.2,0.0,1,1,NewcastleUnited
+6,Sun,Away,W,8,0,Sheffield United,3.9,0.9,58.0,22.0,15.0,14.2,0.0,0,0,NewcastleUnited
+7,Sat,Home,W,2,0,Burnley,3.1,0.6,53.0,19.0,6.0,15.8,0.0,1,1,NewcastleUnited
+8,Sun,Away,D,2,2,West Ham United,2.0,1.2,64.0,10.0,3.0,12.1,0.0,0,0,NewcastleUnited
+9,Sat,Home,W,4,0,Crystal Palace,2.4,1.2,59.0,10.0,7.0,10.2,0.0,0,0,NewcastleUnited
+10,Sat,Away,D,2,2,Wolverhampton Wanderers,2.2,0.9,57.0,12.0,3.0,14.2,0.0,1,1,NewcastleUnited
+11,Sat,Home,W,1,0,Arsenal,1.0,0.6,42.0,9.0,1.0,18.6,0.0,0,0,NewcastleUnited
+12,Sat,Away,L,0,2,AFC Bournemouth,0.5,2.4,52.0,8.0,5.0,19.5,0.0,0,0,NewcastleUnited
+13,Sat,Home,W,4,1,Chelsea,2.4,0.5,54.0,14.0,5.0,17.0,1.0,0,0,NewcastleUnited
+14,Sat,Home,W,1,0,Manchester Utd,2.4,0.5,58.0,22.0,4.0,16.4,1.0,0,0,NewcastleUnited
+15,Thu,Away,L,0,3,Everton,1.5,3.3,62.0,13.0,3.0,19.3,1.0,0,0,NewcastleUnited
+16,Sun,Away,L,1,4,Tottenham Hotspur,1.7,3.8,44.0,9.0,3.0,14.4,0.0,0,0,NewcastleUnited
+17,Sat,Home,W,3,0,Fulham,3.5,0.3,70.0,27.0,10.0,14.4,0.0,0,0,NewcastleUnited
+18,Sat,Away,L,0,1,Luton Town,1.4,1.4,65.0,15.0,2.0,12.2,0.0,0,0,NewcastleUnited
+19,Tue,Home,L,1,3,Nott'ham Forest,2.4,3.5,62.0,18.0,5.0,15.1,1.0,1,1,NewcastleUnited
+20,Mon,Away,L,2,4,Liverpool,0.6,7.0,39.0,5.0,3.0,16.1,0.0,0,0,NewcastleUnited
+21,Sat,Home,L,2,3,Manchester City,1.3,3.0,28.0,12.0,5.0,14.7,0.0,0,0,NewcastleUnited
+22,Tue,Away,W,3,1,Aston Villa,2.6,1.4,39.0,14.0,5.0,11.9,0.0,0,0,NewcastleUnited
+23,Sat,Home,D,4,4,Luton Town,2.3,2.4,55.0,19.0,6.0,16.3,0.0,0,0,NewcastleUnited
+24,Sat,Away,W,3,2,Nott'ham Forest,0.5,1.5,61.0,7.0,5.0,19.2,0.0,0,0,NewcastleUnited
+25,Sat,Home,D,2,2,AFC Bournemouth,2.2,2.2,62.0,16.0,4.0,19.4,0.0,1,1,NewcastleUnited
+26,Sat,Away,L,1,4,Arsenal,0.2,2.8,45.0,3.0,2.0,14.5,0.0,0,0,NewcastleUnited
+27,Sat,Home,W,3,0,Wolverhampton Wanderers,2.1,0.8,44.0,14.0,6.0,16.3,1.0,0,0,NewcastleUnited
+28,Mon,Away,L,2,3,Chelsea,0.7,1.6,56.0,11.0,3.0,16.0,0.0,0,0,NewcastleUnited
+30,Sat,Home,W,4,3,West Ham United,4.1,1.4,60.0,22.0,7.0,17.6,0.0,2,2,NewcastleUnited
+31,Tue,Home,D,1,1,Everton,2.4,1.4,57.0,18.0,5.0,15.7,0.0,0,0,NewcastleUnited
+32,Sat,Away,W,1,0,Fulham,1.0,1.2,34.0,12.0,5.0,16.8,0.0,0,0,NewcastleUnited
+33,Sat,Home,W,4,0,Tottenham Hotspur,2.8,0.8,28.0,18.0,5.0,11.1,0.0,0,0,NewcastleUnited
+29,Wed,Away,L,0,2,Crystal Palace,0.4,0.9,53.0,7.0,2.0,14.2,0.0,0,0,NewcastleUnited
+35,Sat,Home,W,5,1,Sheffield United,3.1,1.5,60.0,19.0,6.0,16.0,0.0,1,1,NewcastleUnited
+36,Sat,Away,W,4,1,Burnley,3.4,1.0,53.0,22.0,10.0,17.6,1.0,0,1,NewcastleUnited
+37,Sat,Home,D,1,1,Brighton and Hove Albion,2.2,1.4,57.0,18.0,7.0,15.8,0.0,0,0,NewcastleUnited
+34,Wed,Away,L,2,3,Manchester Utd,2.2,1.5,55.0,21.0,7.0,14.6,0.0,0,0,NewcastleUnited
+38,Sun,Away,W,4,2,Brentford,3.4,1.1,46.0,12.0,7.0,15.4,2.0,0,0,NewcastleUnited
+1,Mon,Home,W,1,0,Wolverhampton Wanderers,2.2,2.2,51.0,15.0,2.0,14.7,0.0,0,0,Manchester United
+2,Sat,Away,L,0,2,Tottenham Hotspur,2.1,1.7,45.0,22.0,6.0,15.6,1.0,0,0,Manchester United
+3,Sat,Home,W,3,2,Nott'ham Forest,2.8,1.2,66.0,17.0,8.0,20.3,0.0,1,1,Manchester United
+4,Sun,Away,L,1,3,Arsenal,0.9,2.3,45.0,10.0,2.0,16.5,0.0,0,0,Manchester United
+5,Sat,Home,L,1,3,Brighton and Hove Albion,1.0,1.7,44.0,14.0,4.0,18.6,1.0,0,0,Manchester United
+6,Sat,Away,W,1,0,Burnley,1.0,1.1,39.0,11.0,4.0,15.0,0.0,0,0,Manchester United
+7,Sat,Home,L,0,1,Crystal Palace,1.3,0.9,77.0,19.0,3.0,15.5,0.0,0,0,Manchester United
+8,Sat,Home,W,2,1,Brentford,1.4,0.9,64.0,21.0,8.0,18.3,1.0,0,0,Manchester United
+9,Sat,Away,W,2,1,Sheffield United,1.1,1.4,62.0,14.0,5.0,20.6,1.0,0,0,Manchester United
+10,Sun,Home,L,0,3,Manchester City,0.9,4.0,40.0,7.0,3.0,15.2,0.0,0,0,Manchester United
+11,Sat,Away,W,1,0,Fulham,0.7,1.0,55.0,12.0,5.0,18.3,1.0,0,0,Manchester United
+12,Sat,Home,W,1,0,Luton Town,2.2,0.4,64.0,15.0,4.0,14.0,1.0,0,0,Manchester United
+13,Sun,Away,W,3,0,Everton,2.2,2.4,49.0,8.0,3.0,17.4,0.0,1,1,Manchester United
+14,Sat,Away,L,0,1,Newcastle United,0.5,2.4,42.0,8.0,1.0,18.2,0.0,0,0,Manchester United
+15,Wed,Home,W,2,1,Chelsea,4.1,1.5,45.0,27.0,8.0,15.4,1.0,0,1,Manchester United
+16,Sat,Home,L,0,3,AFC Bournemouth,1.1,1.5,68.0,20.0,3.0,15.4,0.0,0,0,Manchester United
+17,Sun,Away,D,0,0,Liverpool,0.8,2.3,32.0,6.0,1.0,16.3,0.0,0,0,Manchester United
+18,Sat,Away,L,0,2,West Ham United,1.0,1.2,65.0,11.0,3.0,18.1,0.0,0,0,Manchester United
+19,Tue,Home,W,3,2,Aston Villa,1.1,1.7,46.0,13.0,7.0,18.0,1.0,0,0,Manchester United
+20,Sat,Away,L,1,2,Nott'ham Forest,0.8,0.7,56.0,10.0,5.0,17.5,0.0,0,0,Manchester United
+21,Sun,Home,D,2,2,Tottenham Hotspur,0.8,1.2,37.0,9.0,2.0,14.5,1.0,0,0,Manchester United
+22,Thu,Away,W,4,3,Wolverhampton Wanderers,3.3,2.1,47.0,21.0,8.0,18.2,2.0,0,0,Manchester United
+23,Sun,Home,W,3,0,West Ham United,0.7,1.4,51.0,12.0,5.0,20.4,0.0,0,0,Manchester United
+24,Sun,Away,W,2,1,Aston Villa,1.8,2.4,44.0,17.0,5.0,14.6,0.0,0,0,Manchester United
+25,Sun,Away,W,2,1,Luton Town,2.9,1.8,42.0,21.0,8.0,19.8,2.0,0,0,Manchester United
+26,Sat,Home,L,1,2,Fulham,1.7,1.2,57.0,21.0,8.0,17.3,0.0,0,0,Manchester United
+27,Sun,Away,L,1,3,Manchester City,0.2,3.3,27.0,3.0,1.0,16.7,0.0,0,0,Manchester United
+28,Sat,Home,W,2,0,Everton,2.7,1.6,51.0,13.0,6.0,17.6,1.0,2,2,Manchester United
+30,Sat,Away,D,1,1,Brentford,0.6,3.2,53.0,11.0,5.0,22.5,0.0,0,0,Manchester United
+31,Thu,Away,L,3,4,Chelsea,1.5,3.0,43.0,19.0,5.0,16.8,0.0,0,0,Manchester United
+32,Sun,Home,D,2,2,Liverpool,0.7,3.6,38.0,9.0,5.0,18.1,0.0,0,0,Manchester United
+33,Sat,Away,D,2,2,AFC Bournemouth,1.2,1.6,57.0,7.0,1.0,20.6,0.0,1,1,Manchester United
+29,Wed,Home,W,4,2,Sheffield United,2.9,0.8,71.0,24.0,12.0,16.9,0.0,1,1,Manchester United
+35,Sat,Home,D,1,1,Burnley,2.7,2.1,48.0,27.0,10.0,18.0,0.0,0,0,Manchester United
+36,Mon,Away,L,0,4,Crystal Palace,0.4,1.7,57.0,7.0,2.0,16.7,1.0,0,0,Manchester United
+37,Sun,Home,L,0,1,Arsenal,0.5,1.5,54.0,14.0,2.0,22.9,0.0,0,0,Manchester United
+34,Wed,Home,W,3,2,Newcastle United,1.5,2.2,45.0,17.0,8.0,15.2,0.0,0,0,Manchester United
+38,Sun,Away,W,2,0,Brighton and Hove Albion,1.3,1.7,45.0,11.0,4.0,17.0,0.0,0,0,Manchester United
+1,Sat,Away,D,1,1,AFC Bournemouth,1.1,1.3,38.0,16.0,2.0,16.1,0.0,0,0,WestHamUnited
+2,Sun,Home,W,3,1,Chelsea,1.8,2.5,25.0,11.0,5.0,19.6,0.0,1,1,WestHamUnited
+3,Sat,Away,W,3,1,Brighton and Hove Albion,3.0,1.5,22.0,12.0,7.0,12.3,0.0,0,0,WestHamUnited
+4,Fri,Away,W,2,1,Luton Town,1.0,1.4,61.0,9.0,3.0,16.3,0.0,0,0,WestHamUnited
+5,Sat,Home,L,1,3,Manchester City,0.9,3.6,32.0,6.0,3.0,12.1,0.0,0,0,WestHamUnited
+6,Sun,Away,L,1,3,Liverpool,1.1,3.0,37.0,11.0,4.0,13.5,0.0,0,0,WestHamUnited
+7,Sat,Home,W,2,0,Sheffield United,2.1,1.1,52.0,20.0,8.0,12.6,1.0,0,0,WestHamUnited
+8,Sun,Home,D,2,2,Newcastle United,1.2,2.0,36.0,5.0,3.0,14.9,1.0,0,0,WestHamUnited
+9,Sun,Away,L,1,4,Aston Villa,1.1,1.9,42.0,14.0,4.0,15.2,1.0,0,0,WestHamUnited
+10,Sun,Home,L,0,1,Everton,0.7,0.8,64.0,12.0,2.0,17.3,0.0,0,0,WestHamUnited
+11,Sat,Away,L,2,3,Brentford,1.8,1.5,42.0,12.0,2.0,15.3,0.0,0,0,WestHamUnited
+12,Sun,Home,W,3,2,Nott'ham Forest,1.8,1.7,54.0,16.0,6.0,18.0,1.0,0,0,WestHamUnited
+13,Sat,Away,W,2,1,Burnley,0.9,1.3,50.0,11.0,3.0,13.2,0.0,0,0,WestHamUnited
+14,Sun,Home,D,1,1,Crystal Palace,1.1,0.9,55.0,9.0,3.0,15.7,1.0,0,0,WestHamUnited
+15,Thu,Away,W,2,1,Tottenham Hotspur,2.2,1.8,26.0,11.0,5.0,15.0,0.0,0,0,WestHamUnited
+16,Sun,Away,L,0,5,Fulham,1.3,2.3,37.0,9.0,5.0,19.2,1.0,0,0,WestHamUnited
+17,Sun,Home,W,3,0,Wolverhampton Wanderers,1.1,0.7,45.0,13.0,4.0,19.8,2.0,0,0,WestHamUnited
+18,Sat,Home,W,2,0,Manchester Utd,1.2,1.0,35.0,12.0,5.0,13.8,0.0,0,0,WestHamUnited
+19,Thu,Away,W,2,0,Arsenal,1.4,2.7,27.0,5.0,2.0,17.4,0.0,0,1,WestHamUnited
+20,Tue,Home,D,0,0,Brighton and Hove Albion,0.7,2.3,32.0,6.0,2.0,16.0,0.0,0,0,WestHamUnited
+21,Sun,Away,D,2,2,Sheffield United,2.3,2.5,43.0,15.0,4.0,14.9,0.0,1,1,WestHamUnited
+22,Thu,Home,D,1,1,AFC Bournemouth,1.4,1.2,48.0,8.0,2.0,17.1,0.0,1,1,WestHamUnited
+23,Sun,Away,L,0,3,Manchester Utd,1.4,0.7,49.0,22.0,3.0,18.9,1.0,0,0,WestHamUnited
+24,Sun,Home,L,0,6,Arsenal,0.2,3.6,30.0,5.0,1.0,19.9,0.0,0,0,WestHamUnited
+25,Sat,Away,L,0,2,Nott'ham Forest,0.5,2.8,51.0,10.0,3.0,18.9,1.0,0,0,WestHamUnited
+26,Mon,Home,W,4,2,Brentford,1.7,0.9,41.0,17.0,6.0,17.7,0.0,0,0,WestHamUnited
+27,Sat,Away,W,3,1,Everton,1.9,2.7,45.0,12.0,5.0,14.2,0.0,0,0,WestHamUnited
+28,Sun,Home,D,2,2,Burnley,2.1,0.7,52.0,22.0,4.0,14.8,0.0,0,0,WestHamUnited
+29,Sun,Home,D,1,1,Aston Villa,2.0,0.7,31.0,13.0,4.0,15.9,1.0,0,0,WestHamUnited
+30,Sat,Away,L,3,4,Newcastle United,1.4,4.1,40.0,10.0,4.0,14.1,0.0,0,0,WestHamUnited
+31,Tue,Home,D,1,1,Tottenham Hotspur,1.5,1.0,33.0,11.0,4.0,16.6,1.0,0,0,WestHamUnited
+32,Sat,Away,W,2,1,Wolverhampton Wanderers,1.2,1.5,42.0,10.0,3.0,24.6,2.0,1,1,WestHamUnited
+33,Sun,Home,L,0,2,Fulham,0.9,3.2,58.0,15.0,4.0,16.2,0.0,0,0,WestHamUnited
+34,Sun,Away,L,2,5,Crystal Palace,1.3,2.4,40.0,4.0,1.0,10.8,0.0,0,0,WestHamUnited
+35,Sat,Home,D,2,2,Liverpool,0.7,1.7,29.0,11.0,8.0,17.0,0.0,0,0,WestHamUnited
+36,Sun,Away,L,0,5,Chelsea,0.9,4.1,31.0,13.0,2.0,17.6,2.0,0,0,WestHamUnited
+37,Sat,Home,W,3,1,Luton Town,3.2,0.3,58.0,24.0,8.0,16.5,1.0,0,0,WestHamUnited
+38,Sun,Away,L,1,3,Manchester City,0.4,1.9,29.0,3.0,2.0,10.3,0.0,0,0,WestHamUnited
+1,Sat,Away,W,1,0,Sheffield United,1.9,0.5,68.0,24.0,8.0,18.5,1.0,0,0,CrystalPalace
+2,Mon,Home,L,0,1,Arsenal,1.0,2.0,47.0,14.0,2.0,16.4,1.0,0,0,CrystalPalace
+3,Sat,Away,D,1,1,Brentford,0.8,1.0,40.0,15.0,5.0,16.9,1.0,0,0,CrystalPalace
+4,Sun,Home,W,3,2,Wolverhampton Wanderers,2.1,1.2,43.0,16.0,10.0,13.8,1.0,0,0,CrystalPalace
+5,Sat,Away,L,1,3,Aston Villa,1.2,3.0,34.0,6.0,3.0,16.1,0.0,0,0,CrystalPalace
+6,Sat,Home,D,0,0,Fulham,0.3,0.6,51.0,7.0,3.0,18.9,1.0,0,0,CrystalPalace
+7,Sat,Away,W,1,0,Manchester Utd,0.9,1.3,23.0,8.0,2.0,13.5,0.0,0,0,CrystalPalace
+8,Sat,Home,D,0,0,Nott'ham Forest,0.8,1.0,52.0,8.0,2.0,15.2,0.0,0,0,CrystalPalace
+9,Sat,Away,L,0,4,Newcastle United,1.2,2.4,41.0,17.0,3.0,17.8,1.0,0,0,CrystalPalace
+10,Fri,Home,L,1,2,Tottenham Hotspur,0.6,1.1,25.0,13.0,3.0,17.2,0.0,0,0,CrystalPalace
+11,Sat,Away,W,2,0,Burnley,1.3,1.1,33.0,4.0,3.0,13.9,0.0,0,0,CrystalPalace
+12,Sat,Home,L,2,3,Everton,2.2,1.5,67.0,12.0,3.0,17.9,0.0,1,1,CrystalPalace
+13,Sat,Away,L,1,2,Luton Town,1.6,0.9,61.0,16.0,8.0,16.3,1.0,0,0,CrystalPalace
+14,Sun,Away,D,1,1,West Ham United,0.9,1.1,45.0,9.0,2.0,17.4,1.0,0,0,CrystalPalace
+15,Wed,Home,L,0,2,AFC Bournemouth,1.0,1.8,59.0,16.0,3.0,18.9,1.0,0,0,CrystalPalace
+16,Sat,Home,L,1,2,Liverpool,1.7,1.2,24.0,7.0,3.0,17.4,0.0,1,1,CrystalPalace
+17,Sat,Away,D,2,2,Manchester City,1.8,1.6,26.0,4.0,1.0,21.1,1.0,1,1,CrystalPalace
+18,Thu,Home,D,1,1,Brighton and Hove Albion,1.3,1.2,35.0,11.0,3.0,13.4,0.0,0,0,CrystalPalace
+19,Wed,Away,L,1,2,Chelsea,1.1,2.6,37.0,13.0,5.0,19.6,2.0,0,0,CrystalPalace
+20,Sat,Home,W,3,1,Brentford,1.0,1.4,46.0,13.0,6.0,16.2,0.0,0,0,CrystalPalace
+21,Sat,Away,L,0,5,Arsenal,0.3,3.3,40.0,12.0,5.0,24.4,2.0,0,0,CrystalPalace
+22,Tue,Home,W,3,2,Sheffield United,1.1,0.8,53.0,12.0,4.0,17.1,0.0,0,0,CrystalPalace
+23,Sat,Away,L,1,4,Brighton and Hove Albion,0.3,1.4,32.0,7.0,5.0,20.6,0.0,0,0,CrystalPalace
+24,Mon,Home,L,1,3,Chelsea,0.6,1.4,23.0,13.0,4.0,18.7,0.0,0,0,CrystalPalace
+25,Mon,Away,D,1,1,Everton,0.7,1.7,39.0,10.0,3.0,13.0,0.0,0,0,CrystalPalace
+26,Sat,Home,W,3,0,Burnley,2.4,0.1,56.0,14.0,5.0,15.3,1.0,1,1,CrystalPalace
+27,Sat,Away,L,1,3,Tottenham Hotspur,0.3,1.9,22.0,4.0,1.0,18.6,1.0,0,0,CrystalPalace
+28,Sat,Home,D,1,1,Luton Town,2.7,0.8,49.0,21.0,4.0,16.5,0.0,0,0,CrystalPalace
+30,Sat,Away,D,1,1,Nott'ham Forest,1.2,0.9,41.0,10.0,3.0,18.4,0.0,0,0,CrystalPalace
+31,Tue,Away,L,0,1,AFC Bournemouth,0.2,1.1,50.0,3.0,2.0,15.0,0.0,0,0,CrystalPalace
+32,Sat,Home,L,2,4,Manchester City,1.1,1.9,25.0,7.0,4.0,16.8,0.0,0,0,CrystalPalace
+33,Sun,Away,W,1,0,Liverpool,2.0,2.7,31.0,8.0,4.0,14.1,0.0,0,0,CrystalPalace
+34,Sun,Home,W,5,2,West Ham United,2.4,1.3,60.0,18.0,7.0,16.6,1.0,0,0,CrystalPalace
+29,Wed,Home,W,2,0,Newcastle United,0.9,0.4,47.0,20.0,7.0,21.2,3.0,0,0,CrystalPalace
+35,Sat,Away,D,1,1,Fulham,1.0,1.1,47.0,14.0,4.0,19.7,0.0,0,0,CrystalPalace
+36,Mon,Home,W,4,0,Manchester Utd,1.7,0.4,43.0,18.0,10.0,16.8,0.0,0,0,CrystalPalace
+37,Sat,Away,W,3,1,Wolverhampton Wanderers,2.6,1.6,38.0,13.0,3.0,13.6,0.0,0,0,CrystalPalace
+38,Sun,Home,W,5,0,Aston Villa,2.5,0.9,54.0,15.0,9.0,16.8,0.0,0,0,CrystalPalace
+1,Sat,Home,W,4,1,Luton Town,4.0,1.5,70.0,26.0,11.0,17.0,0.0,1,1,BrightonandHoveAlbion
+2,Sat,Away,W,4,1,Wolverhampton Wanderers,2.2,2.1,53.0,16.0,8.0,15.6,0.0,0,0,BrightonandHoveAlbion
+3,Sat,Home,L,1,3,West Ham United,1.5,3.0,78.0,25.0,10.0,19.5,1.0,0,0,BrightonandHoveAlbion
+4,Sat,Home,W,3,1,Newcastle United,1.3,1.2,56.0,15.0,6.0,17.3,0.0,0,0,BrightonandHoveAlbion
+5,Sat,Away,W,3,1,Manchester Utd,1.7,1.0,56.0,10.0,8.0,17.1,0.0,0,0,BrightonandHoveAlbion
+6,Sun,Home,W,3,1,AFC Bournemouth,1.9,1.1,61.0,13.0,4.0,17.1,0.0,0,0,BrightonandHoveAlbion
+7,Sat,Away,L,1,6,Aston Villa,1.7,1.6,61.0,11.0,3.0,15.4,0.0,0,0,BrightonandHoveAlbion
+8,Sun,Home,D,2,2,Liverpool,2.3,2.3,46.0,14.0,3.0,16.9,2.0,0,0,BrightonandHoveAlbion
+9,Sat,Away,L,1,2,Manchester City,0.8,0.8,45.0,5.0,3.0,12.1,0.0,0,0,BrightonandHoveAlbion
+10,Sun,Home,D,1,1,Fulham,1.4,0.7,71.0,18.0,6.0,18.1,1.0,0,0,BrightonandHoveAlbion
+11,Sat,Away,D,1,1,Everton,0.5,0.7,79.0,7.0,2.0,15.6,1.0,0,0,BrightonandHoveAlbion
+12,Sun,Home,D,1,1,Sheffield United,1.5,1.1,61.0,11.0,6.0,16.5,0.0,0,0,BrightonandHoveAlbion
+13,Sat,Away,W,3,2,Nott'ham Forest,1.3,1.9,53.0,9.0,4.0,19.9,1.0,1,1,BrightonandHoveAlbion
+14,Sun,Away,L,2,3,Chelsea,1.1,2.1,68.0,18.0,9.0,18.6,1.0,0,0,BrightonandHoveAlbion
+15,Wed,Home,W,2,1,Brentford,1.5,1.5,61.0,18.0,7.0,16.1,0.0,0,0,BrightonandHoveAlbion
+16,Sat,Home,D,1,1,Burnley,2.6,0.6,72.0,29.0,11.0,14.2,2.0,0,0,BrightonandHoveAlbion
+17,Sun,Away,L,0,2,Arsenal,0.7,2.3,51.0,6.0,1.0,16.9,0.0,0,0,BrightonandHoveAlbion
+18,Thu,Away,D,1,1,Crystal Palace,1.2,1.3,65.0,18.0,6.0,17.6,0.0,0,0,BrightonandHoveAlbion
+19,Thu,Home,W,4,2,Tottenham Hotspur,3.2,2.3,45.0,13.0,7.0,15.2,0.0,2,2,BrightonandHoveAlbion
+20,Tue,Away,D,0,0,West Ham United,2.3,0.7,68.0,22.0,8.0,14.4,0.0,0,0,BrightonandHoveAlbion
+21,Mon,Home,D,0,0,Wolverhampton Wanderers,1.0,1.1,72.0,11.0,3.0,14.2,0.0,0,0,BrightonandHoveAlbion
+22,Tue,Away,L,0,4,Luton Town,0.9,3.1,59.0,9.0,2.0,13.9,0.0,0,0,BrightonandHoveAlbion
+23,Sat,Home,W,4,1,Crystal Palace,1.4,0.3,68.0,13.0,6.0,16.7,0.0,0,0,BrightonandHoveAlbion
+24,Sat,Away,L,1,2,Tottenham Hotspur,1.2,1.6,48.0,5.0,2.0,17.8,0.0,1,1,BrightonandHoveAlbion
+25,Sun,Away,W,5,0,Sheffield United,2.9,0.6,79.0,24.0,9.0,15.1,0.0,0,0,BrightonandHoveAlbion
+26,Sat,Home,D,1,1,Everton,1.4,0.3,64.0,23.0,7.0,16.3,1.0,0,0,BrightonandHoveAlbion
+27,Sat,Away,L,0,3,Fulham,1.3,1.3,70.0,15.0,5.0,17.6,0.0,0,0,BrightonandHoveAlbion
+28,Sun,Home,W,1,0,Nott'ham Forest,0.4,0.7,63.0,10.0,3.0,17.5,0.0,0,0,BrightonandHoveAlbion
+30,Sun,Away,L,1,2,Liverpool,0.5,2.8,45.0,9.0,3.0,17.2,0.0,0,0,BrightonandHoveAlbion
+31,Wed,Away,D,0,0,Brentford,1.1,0.6,66.0,24.0,6.0,20.1,0.0,0,0,BrightonandHoveAlbion
+32,Sat,Home,L,0,3,Arsenal,0.5,3.4,54.0,10.0,2.0,19.2,0.0,0,0,BrightonandHoveAlbion
+33,Sat,Away,D,1,1,Burnley,0.9,1.7,56.0,20.0,8.0,18.4,1.0,0,0,BrightonandHoveAlbion
+29,Thu,Home,L,0,4,Manchester City,0.6,1.4,36.0,7.0,3.0,16.0,0.0,0,0,BrightonandHoveAlbion
+35,Sun,Away,L,0,3,AFC Bournemouth,0.9,1.9,69.0,13.0,1.0,16.5,0.0,0,0,BrightonandHoveAlbion
+36,Sun,Home,W,1,0,Aston Villa,2.5,0.1,52.0,14.0,7.0,16.3,0.0,0,1,BrightonandHoveAlbion
+37,Sat,Away,D,1,1,Newcastle United,1.4,2.2,43.0,15.0,4.0,16.2,0.0,0,0,BrightonandHoveAlbion
+34,Wed,Home,L,1,2,Chelsea,1.3,1.5,55.0,12.0,2.0,15.3,0.0,0,0,BrightonandHoveAlbion
+38,Sun,Home,L,0,2,Manchester Utd,1.7,1.3,55.0,17.0,2.0,14.2,0.0,0,0,BrightonandHoveAlbion
+1,Sat,Home,D,1,1,West Ham United,1.3,1.1,62.0,14.0,5.0,20.7,1.0,0,0,AFC Bournemouth
+2,Sat,Away,L,1,3,Liverpool,1.3,3.0,36.0,13.0,5.0,19.7,1.0,0,0,AFC Bournemouth
+3,Sat,Home,L,0,2,Tottenham Hotspur,0.7,2.1,44.0,11.0,3.0,17.8,0.0,0,0,AFC Bournemouth
+4,Sat,Away,D,2,2,Brentford,2.1,2.9,40.0,12.0,5.0,15.1,0.0,0,0,AFC Bournemouth
+5,Sun,Home,D,0,0,Chelsea,1.0,1.8,36.0,13.0,4.0,16.7,1.0,0,0,AFC Bournemouth
+6,Sun,Away,L,1,3,Brighton and Hove Albion,1.1,1.9,39.0,12.0,3.0,17.6,1.0,0,0,AFC Bournemouth
+7,Sat,Home,L,0,4,Arsenal,0.6,3.4,43.0,8.0,1.0,14.1,0.0,0,0,AFC Bournemouth
+8,Sat,Away,L,0,3,Everton,0.7,2.4,52.0,11.0,3.0,16.2,0.0,0,0,AFC Bournemouth
+9,Sat,Home,L,1,2,Wolverhampton Wanderers,0.6,2.4,35.0,7.0,4.0,17.1,0.0,0,0,AFC Bournemouth
+10,Sat,Home,W,2,1,Burnley,1.1,0.8,45.0,13.0,6.0,19.5,2.0,0,0,AFC Bournemouth
+11,Sat,Away,L,1,6,Manchester City,0.9,1.9,35.0,5.0,1.0,11.4,0.0,0,0,AFC Bournemouth
+12,Sat,Home,W,2,0,Newcastle United,2.4,0.5,48.0,19.0,10.0,14.9,0.0,0,0,AFC Bournemouth
+13,Sat,Away,W,3,1,Sheffield United,2.9,0.8,54.0,23.0,11.0,15.7,0.0,0,0,AFC Bournemouth
+14,Sun,Home,D,2,2,Aston Villa,2.0,0.7,38.0,15.0,7.0,13.6,0.0,0,0,AFC Bournemouth
+15,Wed,Away,W,2,0,Crystal Palace,1.8,1.0,41.0,11.0,4.0,11.5,0.0,0,0,AFC Bournemouth
+16,Sat,Away,W,3,0,Manchester Utd,1.5,1.1,32.0,10.0,4.0,12.7,0.0,0,0,AFC Bournemouth
+18,Sat,Away,W,3,2,Nott'ham Forest,1.6,1.0,66.0,18.0,6.0,15.9,1.0,0,0,AFC Bournemouth
+19,Tue,Home,W,3,0,Fulham,1.8,0.3,43.0,15.0,3.0,18.5,0.0,1,1,AFC Bournemouth
+20,Sun,Away,L,1,3,Tottenham Hotspur,1.7,2.3,50.0,24.0,4.0,17.2,1.0,0,0,AFC Bournemouth
+21,Sun,Home,L,0,4,Liverpool,1.4,1.5,40.0,11.0,1.0,19.8,0.0,0,0,AFC Bournemouth
+22,Thu,Away,D,1,1,West Ham United,1.2,1.4,52.0,9.0,4.0,17.2,0.0,0,0,AFC Bournemouth
+23,Sun,Home,D,1,1,Nott'ham Forest,1.3,0.5,45.0,9.0,1.0,16.7,1.0,0,0,AFC Bournemouth
+24,Sat,Away,L,1,3,Fulham,1.8,1.6,51.0,25.0,4.0,16.7,1.0,0,0,AFC Bournemouth
+25,Sat,Away,D,2,2,Newcastle United,2.2,2.2,38.0,12.0,6.0,20.3,0.0,0,0,AFC Bournemouth
+26,Sat,Home,L,0,1,Manchester City,0.9,1.6,38.0,13.0,4.0,17.1,0.0,0,0,AFC Bournemouth
+27,Sun,Away,W,2,0,Burnley,1.1,1.5,26.0,10.0,3.0,15.1,1.0,0,0,AFC Bournemouth
+28,Sat,Home,D,2,2,Sheffield United,3.3,1.2,69.0,31.0,11.0,16.9,0.0,0,1,AFC Bournemouth
+17,Wed,Home,W,4,3,Luton Town,2.3,2.0,59.0,24.0,9.0,15.5,0.0,0,0,AFC Bournemouth
+30,Sat,Home,W,2,1,Everton,1.3,1.0,48.0,11.0,4.0,15.6,1.0,0,0,AFC Bournemouth
+31,Tue,Home,W,1,0,Crystal Palace,1.1,0.2,50.0,11.0,6.0,18.7,2.0,0,0,AFC Bournemouth
+32,Sat,Away,L,1,2,Luton Town,0.4,1.5,45.0,8.0,1.0,19.1,1.0,0,0,AFC Bournemouth
+33,Sat,Home,D,2,2,Manchester Utd,1.6,1.2,43.0,20.0,5.0,16.8,1.0,0,0,AFC Bournemouth
+34,Sun,Away,L,1,3,Aston Villa,1.8,2.4,44.0,13.0,4.0,16.4,0.0,1,1,AFC Bournemouth
+29,Wed,Away,W,1,0,Wolverhampton Wanderers,1.9,0.5,37.0,21.0,6.0,16.7,0.0,0,0,AFC Bournemouth
+35,Sun,Home,W,3,0,Brighton and Hove Albion,1.9,0.9,31.0,15.0,6.0,14.4,1.0,0,0,AFC Bournemouth
+36,Sat,Away,L,0,3,Arsenal,0.5,3.3,45.0,7.0,2.0,20.4,1.0,0,0,AFC Bournemouth
+37,Sat,Home,L,1,2,Brentford,0.7,1.1,48.0,13.0,4.0,17.1,0.0,0,0,AFC Bournemouth
+38,Sun,Away,L,1,2,Chelsea,2.2,1.1,39.0,22.0,5.0,16.8,0.0,0,0,AFC Bournemouth
+1,Sat,Away,W,1,0,Everton,1.5,2.7,58.0,9.0,2.0,13.2,0.0,0,0,Fulham
+2,Sat,Home,L,0,3,Brentford,0.5,3.7,55.0,10.0,2.0,22.3,1.0,0,0,Fulham
+3,Sat,Away,D,2,2,Arsenal,0.6,3.2,29.0,8.0,3.0,17.8,0.0,0,0,Fulham
+4,Sat,Away,L,1,5,Manchester City,1.4,2.2,32.0,6.0,4.0,11.4,0.0,0,0,Fulham
+5,Sat,Home,W,1,0,Luton Town,1.0,1.1,77.0,13.0,2.0,19.5,2.0,0,0,Fulham
+6,Sat,Away,D,0,0,Crystal Palace,0.6,0.3,49.0,10.0,5.0,18.7,1.0,0,0,Fulham
+7,Mon,Home,L,0,2,Chelsea,1.1,1.7,56.0,10.0,3.0,13.2,0.0,0,0,Fulham
+8,Sat,Home,W,3,1,Sheffield United,2.2,0.6,60.0,20.0,6.0,20.2,0.0,0,0,Fulham
+9,Mon,Away,L,0,2,Tottenham Hotspur,1.0,1.5,45.0,10.0,3.0,17.6,0.0,0,0,Fulham
+10,Sun,Away,D,1,1,Brighton and Hove Albion,0.7,1.4,29.0,10.0,5.0,19.3,0.0,0,0,Fulham
+11,Sat,Home,L,0,1,Manchester Utd,1.0,0.7,45.0,18.0,2.0,18.6,1.0,0,0,Fulham
+12,Sun,Away,L,1,3,Aston Villa,0.9,3.0,49.0,9.0,5.0,19.5,0.0,0,0,Fulham
+13,Mon,Home,W,3,2,Wolverhampton Wanderers,2.9,1.4,60.0,10.0,4.0,22.9,0.0,2,2,Fulham
+14,Sun,Away,L,3,4,Liverpool,1.2,2.1,39.0,9.0,5.0,13.3,0.0,0,0,Fulham
+15,Wed,Home,W,5,0,Nott'ham Forest,2.5,0.3,63.0,14.0,6.0,17.3,1.0,0,0,Fulham
+16,Sun,Home,W,5,0,West Ham United,2.3,1.3,63.0,14.0,8.0,17.7,0.0,0,0,Fulham
+17,Sat,Away,L,0,3,Newcastle United,0.3,3.5,30.0,6.0,4.0,23.1,0.0,0,0,Fulham
+18,Sat,Home,L,0,2,Burnley,1.3,0.4,66.0,19.0,5.0,16.3,1.0,0,0,Fulham
+19,Tue,Away,L,0,3,AFC Bournemouth,0.3,1.8,57.0,8.0,3.0,21.6,1.0,0,0,Fulham
+20,Sun,Home,W,2,1,Arsenal,1.2,1.6,40.0,15.0,4.0,18.2,1.0,0,0,Fulham
+21,Sat,Away,L,0,1,Chelsea,0.8,2.2,45.0,14.0,4.0,22.0,2.0,0,0,Fulham
+22,Tue,Home,D,0,0,Everton,1.6,1.9,70.0,25.0,5.0,17.3,0.0,0,0,Fulham
+23,Sat,Away,D,2,2,Burnley,1.5,1.8,56.0,15.0,7.0,13.2,0.0,0,0,Fulham
+24,Sat,Home,W,3,1,AFC Bournemouth,1.6,1.8,49.0,7.0,6.0,11.4,0.0,0,0,Fulham
+25,Sat,Home,L,1,2,Aston Villa,1.5,1.5,52.0,15.0,4.0,14.7,0.0,0,0,Fulham
+26,Sat,Away,W,2,1,Manchester Utd,1.2,1.7,43.0,17.0,5.0,17.1,0.0,0,0,Fulham
+27,Sat,Home,W,3,0,Brighton and Hove Albion,1.3,1.3,30.0,12.0,5.0,14.6,0.0,0,0,Fulham
+28,Sat,Away,L,1,2,Wolverhampton Wanderers,2.6,0.8,52.0,23.0,6.0,14.1,0.0,0,0,Fulham
+29,Sat,Home,W,3,0,Tottenham Hotspur,2.6,2.4,43.0,16.0,7.0,12.7,0.0,0,0,Fulham
+30,Sat,Away,D,3,3,Sheffield United,1.3,1.9,73.0,24.0,9.0,17.6,0.0,0,0,Fulham
+31,Tue,Away,L,1,3,Nott'ham Forest,1.5,1.5,66.0,18.0,3.0,12.3,0.0,0,0,Fulham
+32,Sat,Home,L,0,1,Newcastle United,1.2,1.0,66.0,14.0,4.0,17.6,0.0,0,0,Fulham
+33,Sun,Away,W,2,0,West Ham United,3.2,0.9,42.0,18.0,10.0,15.1,0.0,0,0,Fulham
+34,Sun,Home,L,1,3,Liverpool,0.8,1.0,40.0,12.0,5.0,17.1,1.0,0,0,Fulham
+35,Sat,Home,D,1,1,Crystal Palace,1.1,1.0,53.0,9.0,2.0,14.9,0.0,0,0,Fulham
+36,Sat,Away,D,0,0,Brentford,1.3,0.6,46.0,15.0,3.0,17.4,0.0,0,0,Fulham
+37,Sat,Home,L,0,4,Manchester City,0.1,3.2,36.0,1.0,1.0,9.6,0.0,0,0,Fulham
+38,Sun,Away,W,4,2,Luton Town,1.1,2.0,59.0,16.0,8.0,21.6,2.0,0,0,Fulham
+1,Mon,Away,L,0,1,Manchester Utd,2.2,2.2,49.0,23.0,6.0,15.3,0.0,0,0,WolverhamptonWanderers
+2,Sat,Home,L,1,4,Brighton and Hove Albion,2.1,2.2,47.0,16.0,5.0,16.1,0.0,0,0,WolverhamptonWanderers
+3,Sat,Away,W,1,0,Everton,1.1,1.3,53.0,11.0,2.0,17.8,1.0,0,0,WolverhamptonWanderers
+4,Sun,Away,L,2,3,Crystal Palace,1.2,2.1,57.0,12.0,4.0,16.2,0.0,0,0,WolverhamptonWanderers
+5,Sat,Home,L,1,3,Liverpool,0.6,2.5,35.0,11.0,2.0,18.7,0.0,0,0,WolverhamptonWanderers
+6,Sat,Away,D,1,1,Luton Town,0.6,2.1,43.0,3.0,3.0,7.0,0.0,0,0,WolverhamptonWanderers
+7,Sat,Home,W,2,1,Manchester City,0.4,0.9,32.0,3.0,1.0,11.4,0.0,0,0,WolverhamptonWanderers
+8,Sun,Home,D,1,1,Aston Villa,1.7,1.6,47.0,8.0,3.0,16.0,0.0,0,0,WolverhamptonWanderers
+9,Sat,Away,W,2,1,AFC Bournemouth,2.4,0.6,65.0,21.0,7.0,16.2,0.0,0,0,WolverhamptonWanderers
+10,Sat,Home,D,2,2,Newcastle United,0.9,2.2,43.0,11.0,6.0,17.2,1.0,0,0,WolverhamptonWanderers
+11,Sat,Away,L,1,2,Sheffield United,1.2,1.0,61.0,10.0,3.0,17.5,1.0,0,0,WolverhamptonWanderers
+12,Sat,Home,W,2,1,Tottenham Hotspur,2.1,0.7,42.0,17.0,4.0,18.5,0.0,0,0,WolverhamptonWanderers
+13,Mon,Away,L,2,3,Fulham,1.4,2.9,40.0,9.0,5.0,16.6,0.0,1,1,WolverhamptonWanderers
+14,Sat,Away,L,1,2,Arsenal,0.7,2.8,43.0,6.0,3.0,10.8,0.0,0,0,WolverhamptonWanderers
+15,Tue,Home,W,1,0,Burnley,0.8,0.9,51.0,7.0,4.0,15.8,1.0,0,0,WolverhamptonWanderers
+16,Sat,Home,D,1,1,Nott'ham Forest,1.2,1.3,68.0,10.0,4.0,15.2,0.0,0,0,WolverhamptonWanderers
+17,Sun,Away,L,0,3,West Ham United,0.7,1.1,55.0,14.0,3.0,20.5,0.0,0,0,WolverhamptonWanderers
+18,Sun,Home,W,2,1,Chelsea,1.3,2.0,32.0,14.0,6.0,16.7,1.0,0,0,WolverhamptonWanderers
+19,Wed,Away,W,4,1,Brentford,2.4,2.2,40.0,11.0,5.0,17.8,0.0,0,0,WolverhamptonWanderers
+20,Sat,Home,W,3,0,Everton,1.9,0.4,53.0,12.0,6.0,13.4,0.0,0,0,WolverhamptonWanderers
+21,Mon,Away,D,0,0,Brighton and Hove Albion,1.1,1.0,28.0,8.0,3.0,18.6,0.0,0,0,WolverhamptonWanderers
+22,Thu,Home,L,3,4,Manchester Utd,2.1,3.3,53.0,15.0,5.0,16.6,1.0,1,1,WolverhamptonWanderers
+23,Sun,Away,W,4,2,Chelsea,2.0,1.7,36.0,13.0,6.0,16.6,2.0,1,1,WolverhamptonWanderers
+24,Sat,Home,L,0,2,Brentford,1.0,1.9,71.0,17.0,5.0,17.2,1.0,0,0,WolverhamptonWanderers
+25,Sat,Away,W,2,1,Tottenham Hotspur,1.8,1.6,29.0,12.0,7.0,15.9,0.0,0,0,WolverhamptonWanderers
+26,Sun,Home,W,1,0,Sheffield United,1.3,0.6,63.0,13.0,2.0,14.6,0.0,0,0,WolverhamptonWanderers
+27,Sat,Away,L,0,3,Newcastle United,0.8,2.1,56.0,12.0,3.0,15.9,0.0,0,0,WolverhamptonWanderers
+28,Sat,Home,W,2,1,Fulham,0.8,2.6,48.0,8.0,3.0,16.3,0.0,0,0,WolverhamptonWanderers
+30,Sat,Away,L,0,2,Aston Villa,1.5,1.0,52.0,13.0,3.0,14.6,1.0,0,0,WolverhamptonWanderers
+31,Tue,Away,D,1,1,Burnley,0.9,1.3,49.0,8.0,2.0,12.4,0.0,0,0,WolverhamptonWanderers
+32,Sat,Home,L,1,2,West Ham United,1.5,1.2,58.0,13.0,6.0,25.4,1.0,1,1,WolverhamptonWanderers
+33,Sat,Away,D,2,2,Nott'ham Forest,1.0,1.9,54.0,11.0,3.0,16.1,0.0,0,0,WolverhamptonWanderers
+34,Sat,Home,L,0,2,Arsenal,0.2,1.2,46.0,5.0,3.0,20.1,0.0,0,0,WolverhamptonWanderers
+29,Wed,Home,L,0,1,AFC Bournemouth,0.5,1.9,63.0,15.0,4.0,20.1,0.0,0,0,WolverhamptonWanderers
+35,Sat,Home,W,2,1,Luton Town,1.2,0.6,58.0,13.0,5.0,18.8,0.0,0,0,WolverhamptonWanderers
+36,Sat,Away,L,1,5,Manchester City,0.3,3.7,42.0,2.0,1.0,9.0,0.0,0,0,WolverhamptonWanderers
+37,Sat,Home,L,1,3,Crystal Palace,1.6,2.6,62.0,14.0,8.0,14.6,0.0,0,0,WolverhamptonWanderers
+38,Sun,Away,L,0,2,Liverpool,0.5,4.5,33.0,4.0,2.0,19.0,1.0,0,0,WolverhamptonWanderers
+1,Sat,Home,L,0,1,Fulham,2.7,1.5,42.0,19.0,9.0,15.8,0.0,0,0,Everton
+2,Sun,Away,L,0,4,Aston Villa,0.6,2.9,40.0,9.0,2.0,14.7,0.0,0,0,Everton
+3,Sat,Home,L,0,1,Wolverhampton Wanderers,1.3,1.1,47.0,15.0,7.0,13.8,0.0,0,0,Everton
+4,Sat,Away,D,2,2,Sheffield United,2.5,1.2,54.0,16.0,6.0,14.8,2.0,0,0,Everton
+5,Sun,Home,L,0,1,Arsenal,0.3,1.0,26.0,8.0,1.0,21.6,0.0,0,0,Everton
+6,Sat,Away,W,3,1,Brentford,1.9,1.0,43.0,18.0,6.0,17.8,0.0,0,0,Everton
+7,Sat,Home,L,1,2,Luton Town,2.9,0.9,67.0,23.0,4.0,14.4,0.0,0,0,Everton
+8,Sat,Home,W,3,0,AFC Bournemouth,2.4,0.7,48.0,25.0,8.0,15.8,0.0,0,0,Everton
+9,Sat,Away,L,0,2,Liverpool,0.1,2.2,23.0,6.0,1.0,35.2,0.0,0,0,Everton
+10,Sun,Away,W,1,0,West Ham United,0.8,0.7,36.0,10.0,4.0,17.4,0.0,0,0,Everton
+11,Sat,Home,D,1,1,Brighton and Hove Albion,0.7,0.5,21.0,10.0,4.0,14.4,1.0,0,0,Everton
+12,Sat,Away,W,3,2,Crystal Palace,1.5,2.2,33.0,8.0,4.0,14.5,0.0,0,0,Everton
+13,Sun,Home,L,0,3,Manchester Utd,2.4,2.2,51.0,24.0,6.0,16.9,0.0,0,0,Everton
+14,Sat,Away,W,1,0,Nott'ham Forest,0.7,0.7,39.0,12.0,2.0,20.8,1.0,0,0,Everton
+15,Thu,Home,W,3,0,Newcastle United,3.3,1.5,38.0,21.0,6.0,13.3,0.0,0,0,Everton
+16,Sun,Home,W,2,0,Chelsea,1.2,0.9,29.0,9.0,5.0,16.4,0.0,0,0,Everton
+17,Sat,Away,W,2,0,Burnley,1.4,0.7,39.0,9.0,6.0,11.8,1.0,0,0,Everton
+18,Sat,Away,L,1,2,Tottenham Hotspur,1.8,1.5,39.0,18.0,8.0,15.8,0.0,0,0,Everton
+19,Wed,Home,L,1,3,Manchester City,1.0,2.4,28.0,7.0,2.0,12.5,0.0,0,0,Everton
+20,Sat,Away,L,0,3,Wolverhampton Wanderers,0.4,1.9,47.0,10.0,0.0,20.7,0.0,0,0,Everton
+21,Sun,Home,D,0,0,Aston Villa,1.1,1.2,32.0,10.0,2.0,17.2,1.0,0,0,Everton
+22,Tue,Away,D,0,0,Fulham,1.9,1.6,30.0,21.0,2.0,14.4,2.0,0,0,Everton
+23,Sat,Home,D,2,2,Tottenham Hotspur,2.6,1.0,43.0,14.0,4.0,14.3,0.0,0,0,Everton
+24,Sat,Away,L,0,2,Manchester City,0.3,1.6,28.0,5.0,1.0,22.9,0.0,0,0,Everton
+25,Mon,Home,D,1,1,Crystal Palace,1.7,0.7,61.0,19.0,4.0,16.4,1.0,0,0,Everton
+26,Sat,Away,D,1,1,Brighton and Hove Albion,0.3,1.4,36.0,6.0,2.0,16.0,0.0,0,0,Everton
+27,Sat,Home,L,1,3,West Ham United,2.7,1.9,55.0,21.0,9.0,21.8,0.0,0,1,Everton
+28,Sat,Away,L,0,2,Manchester Utd,1.6,2.7,49.0,23.0,6.0,16.9,1.0,0,0,Everton
+30,Sat,Away,L,1,2,AFC Bournemouth,1.0,1.3,52.0,7.0,3.0,16.0,0.0,0,0,Everton
+31,Tue,Away,D,1,1,Newcastle United,1.4,2.4,43.0,9.0,2.0,17.4,0.0,1,1,Everton
+32,Sat,Home,W,1,0,Burnley,0.9,0.5,38.0,12.0,3.0,20.0,1.0,0,0,Everton
+33,Mon,Away,L,0,6,Chelsea,1.5,3.1,42.0,10.0,2.0,13.7,0.0,0,0,Everton
+34,Sun,Home,W,2,0,Nott'ham Forest,0.3,0.9,41.0,7.0,4.0,18.7,0.0,0,0,Everton
+29,Wed,Home,W,2,0,Liverpool,1.2,2.1,25.0,16.0,6.0,14.9,0.0,0,0,Everton
+35,Sat,Home,W,1,0,Brentford,0.8,0.9,48.0,18.0,1.0,19.1,1.0,0,0,Everton
+36,Fri,Away,D,1,1,Luton Town,1.4,0.8,49.0,9.0,2.0,18.7,0.0,1,1,Everton
+37,Sat,Home,W,1,0,Sheffield United,2.3,0.6,58.0,15.0,6.0,17.1,0.0,0,0,Everton
+38,Sun,Away,L,1,2,Arsenal,0.6,2.9,32.0,5.0,2.0,20.3,2.0,0,0,Everton
+1,Sun,Home,D,2,2,Tottenham Hotspur,2.2,1.3,31.0,10.0,5.0,18.0,0.0,1,1,Brentford
+2,Sat,Away,W,3,0,Fulham,3.7,0.5,45.0,16.0,7.0,13.8,1.0,1,1,Brentford
+3,Sat,Home,D,1,1,Crystal Palace,1.0,0.8,60.0,12.0,1.0,13.7,0.0,0,0,Brentford
+4,Sat,Home,D,2,2,AFC Bournemouth,2.9,2.1,60.0,21.0,7.0,14.7,1.0,0,0,Brentford
+5,Sat,Away,L,0,1,Newcastle United,0.5,1.4,44.0,11.0,2.0,15.7,0.0,0,0,Brentford
+6,Sat,Home,L,1,3,Everton,1.0,1.9,57.0,12.0,2.0,13.9,1.0,0,0,Brentford
+7,Sun,Away,D,1,1,Nott'ham Forest,1.6,0.5,59.0,18.0,3.0,14.1,0.0,0,0,Brentford
+8,Sat,Away,L,1,2,Manchester Utd,0.9,1.4,36.0,11.0,3.0,17.3,0.0,0,0,Brentford
+9,Sat,Home,W,3,0,Burnley,3.1,1.1,50.0,23.0,9.0,15.0,1.0,0,0,Brentford
+10,Sat,Away,W,2,0,Chelsea,2.2,1.9,32.0,7.0,5.0,12.7,0.0,0,0,Brentford
+11,Sat,Home,W,3,2,West Ham United,1.5,1.8,58.0,16.0,4.0,15.7,1.0,0,0,Brentford
+12,Sun,Away,L,0,3,Liverpool,1.6,1.7,42.0,16.0,3.0,17.0,2.0,0,0,Brentford
+13,Sat,Home,L,0,1,Arsenal,1.1,1.6,37.0,9.0,1.0,13.9,0.0,0,0,Brentford
+14,Sat,Home,W,3,1,Luton Town,3.1,0.2,68.0,27.0,6.0,15.4,0.0,0,0,Brentford
+15,Wed,Away,L,1,2,Brighton and Hove Albion,1.5,1.5,39.0,7.0,0.0,17.6,0.0,1,1,Brentford
+16,Sat,Away,L,0,1,Sheffield United,0.6,0.8,59.0,10.0,4.0,16.7,0.0,0,0,Brentford
+17,Sun,Home,L,1,2,Aston Villa,0.5,1.4,34.0,4.0,3.0,13.3,0.0,0,0,Brentford
+19,Wed,Home,L,1,4,Wolverhampton Wanderers,2.2,2.4,60.0,14.0,4.0,13.8,0.0,0,0,Brentford
+20,Sat,Away,L,1,3,Crystal Palace,1.4,1.0,54.0,9.0,4.0,16.0,0.0,0,0,Brentford
+21,Sat,Home,W,3,2,Nott'ham Forest,1.2,1.2,48.0,11.0,5.0,14.8,1.0,0,0,Brentford
+22,Wed,Away,L,2,3,Tottenham Hotspur,1.6,2.9,33.0,9.0,5.0,12.9,0.0,0,0,Brentford
+23,Mon,Home,L,1,3,Manchester City,1.0,2.1,28.0,9.0,2.0,15.3,0.0,0,0,Brentford
+24,Sat,Away,W,2,0,Wolverhampton Wanderers,1.9,1.0,29.0,9.0,6.0,14.0,0.0,0,0,Brentford
+25,Sat,Home,L,1,4,Liverpool,1.6,2.8,38.0,15.0,6.0,19.8,3.0,0,0,Brentford
+18,Tue,Away,L,0,1,Manchester City,0.4,2.3,30.0,6.0,2.0,19.4,1.0,0,0,Brentford
+26,Mon,Away,L,2,4,West Ham United,0.9,1.7,59.0,14.0,7.0,16.7,0.0,0,0,Brentford
+27,Sat,Home,D,2,2,Chelsea,1.8,1.8,33.0,14.0,5.0,14.5,0.0,0,0,Brentford
+28,Sat,Away,L,1,2,Arsenal,1.0,1.3,29.0,9.0,4.0,17.1,0.0,0,0,Brentford
+29,Sat,Away,L,1,2,Burnley,1.1,2.8,40.0,9.0,5.0,14.7,0.0,0,0,Brentford
+30,Sat,Home,D,1,1,Manchester Utd,3.2,0.6,47.0,31.0,5.0,15.0,1.0,0,0,Brentford
+31,Wed,Home,D,0,0,Brighton and Hove Albion,0.6,1.1,34.0,5.0,2.0,17.1,1.0,0,0,Brentford
+32,Sat,Away,D,3,3,Aston Villa,1.5,1.5,31.0,8.0,3.0,16.5,2.0,0,0,Brentford
+33,Sat,Home,W,2,0,Sheffield United,1.0,0.8,53.0,9.0,5.0,18.7,0.0,0,0,Brentford
+34,Sat,Away,W,5,1,Luton Town,3.1,0.6,47.0,21.0,9.0,18.0,0.0,0,0,Brentford
+35,Sat,Away,L,0,1,Everton,0.9,0.8,52.0,10.0,4.0,16.6,0.0,0,0,Brentford
+36,Sat,Home,D,0,0,Fulham,0.6,1.3,54.0,7.0,2.0,12.9,0.0,0,0,Brentford
+37,Sat,Away,W,2,1,AFC Bournemouth,1.1,0.7,52.0,11.0,4.0,15.7,0.0,0,0,Brentford
+38,Sun,Home,L,2,4,Newcastle United,1.1,3.4,54.0,10.0,5.0,15.9,1.0,0,0,Brentford
+1,Sat,Away,L,1,2,Arsenal,1.2,0.8,22.0,6.0,2.0,17.3,0.0,0,0,NottinghamForest
+2,Fri,Home,W,2,1,Sheffield United,1.4,0.5,50.0,16.0,4.0,15.6,0.0,0,0,NottinghamForest
+3,Sat,Away,L,2,3,Manchester Utd,1.2,2.8,34.0,9.0,4.0,14.7,0.0,0,0,NottinghamForest
+4,Sat,Away,W,1,0,Chelsea,0.8,2.3,25.0,7.0,3.0,19.0,0.0,0,0,NottinghamForest
+5,Mon,Home,D,1,1,Burnley,0.7,0.5,46.0,14.0,4.0,18.8,0.0,0,0,NottinghamForest
+6,Sat,Away,L,0,2,Manchester City,1.0,1.3,43.0,10.0,3.0,17.8,1.0,0,0,NottinghamForest
+7,Sun,Home,D,1,1,Brentford,0.5,1.6,41.0,6.0,1.0,15.4,0.0,0,0,NottinghamForest
+8,Sat,Away,D,0,0,Crystal Palace,1.0,0.8,48.0,16.0,5.0,18.4,0.0,0,0,NottinghamForest
+9,Sat,Home,D,2,2,Luton Town,2.9,1.7,57.0,19.0,8.0,11.1,0.0,0,0,NottinghamForest
+10,Sun,Away,L,0,3,Liverpool,0.4,3.2,28.0,9.0,1.0,15.6,0.0,0,0,NottinghamForest
+11,Sun,Home,W,2,0,Aston Villa,0.4,1.2,27.0,5.0,3.0,21.1,0.0,0,0,NottinghamForest
+12,Sun,Away,L,2,3,West Ham United,1.7,1.8,46.0,10.0,5.0,15.6,0.0,0,0,NottinghamForest
+13,Sat,Home,L,2,3,Brighton and Hove Albion,1.9,1.3,47.0,17.0,4.0,14.7,0.0,1,1,NottinghamForest
+14,Sat,Home,L,0,1,Everton,0.7,0.7,61.0,13.0,2.0,16.1,0.0,0,0,NottinghamForest
+15,Wed,Away,L,0,5,Fulham,0.3,2.5,37.0,4.0,1.0,15.3,0.0,0,0,NottinghamForest
+16,Sat,Away,D,1,1,Wolverhampton Wanderers,1.3,1.2,32.0,8.0,2.0,12.7,0.0,0,0,NottinghamForest
+17,Fri,Home,L,0,2,Tottenham Hotspur,1.3,1.5,34.0,15.0,1.0,16.1,0.0,0,0,NottinghamForest
+18,Sat,Home,L,2,3,AFC Bournemouth,1.0,1.6,34.0,11.0,4.0,14.5,0.0,0,0,NottinghamForest
+19,Tue,Away,W,3,1,Newcastle United,3.5,2.4,38.0,15.0,6.0,15.8,0.0,0,0,NottinghamForest
+20,Sat,Home,W,2,1,Manchester Utd,0.7,0.8,44.0,8.0,2.0,18.3,0.0,0,0,NottinghamForest
+21,Sat,Away,L,2,3,Brentford,1.2,1.2,52.0,12.0,3.0,20.5,0.0,0,0,NottinghamForest
+22,Tue,Home,L,1,2,Arsenal,0.5,1.2,27.0,9.0,3.0,18.7,0.0,0,0,NottinghamForest
+23,Sun,Away,D,1,1,AFC Bournemouth,0.5,1.3,55.0,8.0,6.0,19.9,0.0,0,0,NottinghamForest
+24,Sat,Home,L,2,3,Newcastle United,1.5,0.5,39.0,13.0,3.0,21.8,0.0,0,0,NottinghamForest
+25,Sat,Home,W,2,0,West Ham United,2.8,0.5,49.0,19.0,8.0,16.5,0.0,0,0,NottinghamForest
+26,Sat,Away,L,2,4,Aston Villa,2.6,3.6,42.0,10.0,3.0,16.4,0.0,0,0,NottinghamForest
+27,Sat,Home,L,0,1,Liverpool,1.0,2.0,31.0,8.0,2.0,19.3,0.0,0,0,NottinghamForest
+28,Sun,Away,L,0,1,Brighton and Hove Albion,0.7,0.4,37.0,9.0,4.0,19.3,2.0,0,0,NottinghamForest
+29,Sat,Away,D,1,1,Luton Town,2.0,0.6,40.0,16.0,3.0,22.0,2.0,0,0,NottinghamForest
+30,Sat,Home,D,1,1,Crystal Palace,0.9,1.2,59.0,12.0,5.0,20.5,0.0,0,0,NottinghamForest
+31,Tue,Home,W,3,1,Fulham,1.5,1.5,34.0,16.0,4.0,18.5,0.0,0,0,NottinghamForest
+32,Sun,Away,L,1,3,Tottenham Hotspur,1.5,1.5,37.0,13.0,6.0,22.9,1.0,0,0,NottinghamForest
+33,Sat,Home,D,2,2,Wolverhampton Wanderers,1.9,1.0,46.0,18.0,9.0,17.0,0.0,0,0,NottinghamForest
+34,Sun,Away,L,0,2,Everton,0.9,0.3,59.0,8.0,3.0,13.7,0.0,0,0,NottinghamForest
+35,Sun,Home,L,0,2,Manchester City,1.9,0.9,34.0,14.0,2.0,15.0,1.0,0,0,NottinghamForest
+36,Sat,Away,W,3,1,Sheffield United,1.5,2.2,46.0,15.0,4.0,17.2,0.0,0,0,NottinghamForest
+37,Sat,Home,L,2,3,Chelsea,1.5,1.6,33.0,20.0,4.0,17.2,0.0,0,0,NottinghamForest
+38,Sun,Away,W,2,1,Burnley,1.7,1.2,28.0,12.0,6.0,17.2,0.0,0,0,NottinghamForest
+1,Sat,Away,L,1,4,Brighton and Hove Albion,1.5,4.0,30.0,8.0,2.0,16.6,0.0,1,1,Luton Town
+3,Fri,Away,L,0,3,Chelsea,0.4,2.2,33.0,11.0,1.0,19.0,1.0,0,0,Luton Town
+4,Fri,Home,L,1,2,West Ham United,1.4,1.0,39.0,16.0,1.0,11.9,0.0,0,0,Luton Town
+5,Sat,Away,L,0,1,Fulham,1.1,1.0,23.0,7.0,2.0,10.0,0.0,0,0,Luton Town
+6,Sat,Home,D,1,1,Wolverhampton Wanderers,2.1,0.6,57.0,19.0,3.0,17.3,0.0,1,1,Luton Town
+7,Sat,Away,W,2,1,Everton,0.9,2.9,33.0,9.0,2.0,13.4,0.0,0,0,Luton Town
+2,Tue,Home,L,1,2,Burnley,1.3,1.1,49.0,18.0,2.0,13.1,0.0,0,0,Luton Town
+8,Sat,Home,L,0,1,Tottenham Hotspur,0.8,1.9,34.0,12.0,2.0,16.3,0.0,0,0,Luton Town
+9,Sat,Away,D,2,2,Nott'ham Forest,1.7,2.9,43.0,13.0,4.0,17.6,0.0,0,0,Luton Town
+10,Sun,Away,L,1,3,Aston Villa,0.5,2.3,30.0,7.0,1.0,17.3,0.0,0,0,Luton Town
+11,Sun,Home,D,1,1,Liverpool,0.8,2.6,27.0,8.0,5.0,17.9,0.0,0,0,Luton Town
+12,Sat,Away,L,0,1,Manchester Utd,0.4,2.2,36.0,10.0,4.0,21.9,1.0,0,0,Luton Town
+13,Sat,Home,W,2,1,Crystal Palace,0.9,1.6,39.0,8.0,3.0,14.2,0.0,0,0,Luton Town
+14,Sat,Away,L,1,3,Brentford,0.2,3.1,32.0,7.0,1.0,23.8,0.0,0,0,Luton Town
+15,Tue,Home,L,3,4,Arsenal,0.5,2.2,34.0,6.0,4.0,18.8,0.0,0,0,Luton Town
+16,Sun,Home,L,1,2,Manchester City,0.3,1.6,35.0,4.0,2.0,19.2,0.0,0,0,Luton Town
+18,Sat,Home,W,1,0,Newcastle United,1.4,1.4,35.0,16.0,5.0,19.4,0.0,0,0,Luton Town
+19,Tue,Away,W,3,2,Sheffield United,0.6,2.4,49.0,12.0,4.0,17.9,1.0,0,0,Luton Town
+20,Sat,Home,L,2,3,Chelsea,2.3,1.5,52.0,15.0,6.0,11.6,1.0,0,0,Luton Town
+21,Fri,Away,D,1,1,Burnley,0.9,1.1,61.0,14.0,5.0,18.2,0.0,0,0,Luton Town
+22,Tue,Home,W,4,0,Brighton and Hove Albion,3.1,0.9,41.0,18.0,8.0,13.8,1.0,0,0,Luton Town
+23,Sat,Away,D,4,4,Newcastle United,2.4,2.3,45.0,10.0,7.0,14.0,0.0,1,1,Luton Town
+24,Sat,Home,L,1,3,Sheffield United,1.8,1.7,74.0,19.0,4.0,17.3,0.0,1,1,Luton Town
+25,Sun,Home,L,1,2,Manchester Utd,1.8,2.9,58.0,22.0,4.0,18.6,1.0,0,0,Luton Town
+26,Wed,Away,L,1,4,Liverpool,0.9,3.3,40.0,12.0,3.0,19.0,1.0,0,0,Luton Town
+27,Sat,Home,L,2,3,Aston Villa,1.8,1.9,46.0,14.0,4.0,11.4,1.0,0,0,Luton Town
+28,Sat,Away,D,1,1,Crystal Palace,0.8,2.7,51.0,8.0,2.0,11.9,0.0,0,0,Luton Town
+17,Wed,Away,L,3,4,AFC Bournemouth,2.0,2.3,41.0,8.0,4.0,8.4,0.0,0,0,Luton Town
+29,Sat,Home,D,1,1,Nott'ham Forest,0.6,2.0,60.0,10.0,4.0,18.5,0.0,0,0,Luton Town
+30,Sat,Away,L,1,2,Tottenham Hotspur,0.5,2.9,30.0,7.0,3.0,17.7,0.0,0,0,Luton Town
+31,Wed,Away,L,0,2,Arsenal,0.3,0.7,42.0,5.0,1.0,15.9,1.0,0,0,Luton Town
+32,Sat,Home,W,2,1,AFC Bournemouth,1.5,0.4,55.0,19.0,9.0,18.2,0.0,0,0,Luton Town
+33,Sat,Away,L,1,5,Manchester City,0.5,4.2,27.0,4.0,2.0,9.3,0.0,0,0,Luton Town
+34,Sat,Home,L,1,5,Brentford,0.6,3.1,53.0,6.0,3.0,17.0,0.0,0,0,Luton Town
+35,Sat,Away,L,1,2,Wolverhampton Wanderers,0.6,1.2,42.0,9.0,6.0,17.4,0.0,0,0,Luton Town
+36,Fri,Home,D,1,1,Everton,0.8,1.4,51.0,18.0,5.0,18.4,0.0,0,0,Luton Town
+37,Sat,Away,L,1,3,West Ham United,0.3,3.2,42.0,4.0,1.0,12.5,0.0,0,0,Luton Town
+38,Sun,Home,L,2,4,Fulham,2.0,1.1,41.0,14.0,5.0,19.3,2.0,1,1,Luton Town
+1,Fri,Home,L,0,3,Manchester City,0.3,1.9,35.0,6.0,1.0,14.9,0.0,0,0,Burnley
+3,Sun,Home,L,1,3,Aston Villa,0.7,2.5,57.0,9.0,2.0,17.7,0.0,0,0,Burnley
+4,Sat,Home,L,2,5,Tottenham Hotspur,1.3,2.2,47.0,16.0,4.0,17.9,1.0,0,0,Burnley
+5,Mon,Away,D,1,1,Nott'ham Forest,0.5,0.7,54.0,10.0,3.0,18.9,0.0,0,0,Burnley
+6,Sat,Home,L,0,1,Manchester Utd,1.1,1.0,61.0,12.0,4.0,15.6,0.0,0,0,Burnley
+7,Sat,Away,L,0,2,Newcastle United,0.6,3.1,47.0,8.0,2.0,16.3,0.0,0,0,Burnley
+2,Tue,Away,W,2,1,Luton Town,1.1,1.3,51.0,14.0,4.0,20.2,0.0,0,0,Burnley
+8,Sat,Home,L,1,4,Chelsea,0.7,1.9,38.0,10.0,3.0,18.2,1.0,0,0,Burnley
+9,Sat,Away,L,0,3,Brentford,1.1,3.1,50.0,6.0,1.0,20.2,0.0,0,0,Burnley
+10,Sat,Away,L,1,2,AFC Bournemouth,0.8,1.1,55.0,6.0,3.0,18.0,0.0,0,0,Burnley
+11,Sat,Home,L,0,2,Crystal Palace,1.1,1.3,67.0,17.0,5.0,13.3,0.0,0,0,Burnley
+12,Sat,Away,L,1,3,Arsenal,0.3,1.8,37.0,8.0,5.0,19.3,0.0,0,0,Burnley
+13,Sat,Home,L,1,2,West Ham United,1.3,0.9,50.0,10.0,4.0,17.2,0.0,1,1,Burnley
+14,Sat,Home,W,5,0,Sheffield United,1.8,0.4,63.0,19.0,7.0,15.9,0.0,0,0,Burnley
+15,Tue,Away,L,0,1,Wolverhampton Wanderers,0.9,0.8,49.0,12.0,3.0,21.9,2.0,0,0,Burnley
+16,Sat,Away,D,1,1,Brighton and Hove Albion,0.6,2.6,28.0,6.0,3.0,12.9,0.0,0,0,Burnley
+17,Sat,Home,L,0,2,Everton,0.7,1.4,61.0,14.0,2.0,18.8,1.0,0,0,Burnley
+18,Sat,Away,W,2,0,Fulham,0.4,1.3,34.0,7.0,2.0,19.5,0.0,0,0,Burnley
+19,Tue,Home,L,0,2,Liverpool,0.8,1.8,32.0,9.0,0.0,16.7,0.0,0,0,Burnley
+20,Sat,Away,L,2,3,Aston Villa,1.2,3.2,36.0,9.0,5.0,15.4,0.0,0,0,Burnley
+21,Fri,Home,D,1,1,Luton Town,1.1,0.9,39.0,13.0,7.0,18.8,1.0,0,0,Burnley
+22,Wed,Away,L,1,3,Manchester City,1.4,1.7,26.0,8.0,3.0,14.7,0.0,0,0,Burnley
+23,Sat,Home,D,2,2,Fulham,1.8,1.5,44.0,12.0,4.0,15.4,0.0,0,0,Burnley
+24,Sat,Away,L,1,3,Liverpool,1.3,2.8,30.0,9.0,4.0,17.6,0.0,0,0,Burnley
+25,Sat,Home,L,0,5,Arsenal,0.3,2.3,36.0,8.0,0.0,18.6,0.0,0,0,Burnley
+26,Sat,Away,L,0,3,Crystal Palace,0.1,2.4,44.0,2.0,0.0,12.0,0.0,0,0,Burnley
+27,Sun,Home,L,0,2,AFC Bournemouth,1.5,1.1,74.0,20.0,5.0,18.9,1.0,0,0,Burnley
+28,Sun,Away,D,2,2,West Ham United,0.7,2.1,48.0,11.0,4.0,24.8,1.0,0,0,Burnley
+29,Sat,Home,W,2,1,Brentford,2.8,1.1,60.0,16.0,5.0,19.2,0.0,1,1,Burnley
+30,Sat,Away,D,2,2,Chelsea,1.6,4.2,31.0,18.0,6.0,14.4,2.0,0,0,Burnley
+31,Tue,Home,D,1,1,Wolverhampton Wanderers,1.3,0.9,51.0,13.0,6.0,18.4,0.0,0,0,Burnley
+32,Sat,Away,L,0,1,Everton,0.5,0.9,62.0,6.0,1.0,16.5,1.0,0,0,Burnley
+33,Sat,Home,D,1,1,Brighton and Hove Albion,1.7,0.9,44.0,11.0,3.0,17.1,0.0,0,0,Burnley
+34,Sat,Away,W,4,1,Sheffield United,2.2,2.4,51.0,16.0,9.0,16.0,0.0,0,0,Burnley
+35,Sat,Away,D,1,1,Manchester Utd,2.1,2.7,52.0,15.0,6.0,19.3,1.0,1,1,Burnley
+36,Sat,Home,L,1,4,Newcastle United,1.0,3.4,47.0,17.0,5.0,18.2,0.0,0,0,Burnley
+37,Sat,Away,L,1,2,Tottenham Hotspur,0.7,2.7,37.0,7.0,3.0,11.8,0.0,0,0,Burnley
+38,Sun,Home,L,1,2,Nott'ham Forest,1.2,1.7,72.0,20.0,3.0,22.4,1.0,0,0,Burnley
+1,Sat,Home,L,0,1,Crystal Palace,0.5,1.9,32.0,8.0,1.0,19.4,0.0,0,0,SheffieldUnited
+2,Fri,Away,L,1,2,Nott'ham Forest,0.5,1.4,50.0,7.0,3.0,18.8,0.0,0,0,SheffieldUnited
+3,Sun,Home,L,1,2,Manchester City,0.7,3.5,21.0,6.0,1.0,16.1,0.0,0,0,SheffieldUnited
+4,Sat,Home,D,2,2,Everton,1.2,2.5,46.0,13.0,7.0,14.1,0.0,0,0,SheffieldUnited
+5,Sat,Away,L,1,2,Tottenham Hotspur,0.7,2.1,30.0,7.0,5.0,17.6,0.0,0,0,SheffieldUnited
+6,Sun,Home,L,0,8,Newcastle United,0.9,3.9,42.0,9.0,1.0,13.7,0.0,0,0,SheffieldUnited
+7,Sat,Away,L,0,2,West Ham United,1.1,2.1,48.0,16.0,2.0,15.7,0.0,0,0,SheffieldUnited
+8,Sat,Away,L,1,3,Fulham,0.6,2.2,40.0,5.0,2.0,16.6,0.0,0,0,SheffieldUnited
+9,Sat,Home,L,1,2,Manchester Utd,1.4,1.1,38.0,11.0,5.0,25.8,0.0,1,1,SheffieldUnited
+10,Sat,Away,L,0,5,Arsenal,0.0,2.8,33.0,2.0,0.0,39.9,0.0,0,0,SheffieldUnited
+11,Sat,Home,W,2,1,Wolverhampton Wanderers,1.0,1.2,39.0,10.0,1.0,27.6,1.0,1,1,SheffieldUnited
+12,Sun,Away,D,1,1,Brighton and Hove Albion,1.1,1.5,39.0,9.0,1.0,19.3,0.0,0,0,SheffieldUnited
+13,Sat,Home,L,1,3,AFC Bournemouth,0.8,2.9,46.0,10.0,2.0,14.9,0.0,0,0,SheffieldUnited
+14,Sat,Away,L,0,5,Burnley,0.4,1.8,37.0,6.0,3.0,18.9,0.0,0,0,SheffieldUnited
+15,Wed,Home,L,0,2,Liverpool,1.0,1.7,25.0,6.0,1.0,14.6,1.0,0,0,SheffieldUnited
+16,Sat,Home,W,1,0,Brentford,0.8,0.6,41.0,9.0,4.0,21.7,0.0,0,0,SheffieldUnited
+17,Sat,Away,L,0,2,Chelsea,0.4,3.1,22.0,6.0,1.0,19.7,1.0,0,0,SheffieldUnited
+18,Fri,Away,D,1,1,Aston Villa,0.6,0.9,23.0,5.0,2.0,19.7,0.0,0,0,SheffieldUnited
+19,Tue,Home,L,2,3,Luton Town,2.4,0.6,51.0,21.0,4.0,16.3,1.0,0,0,SheffieldUnited
+20,Sat,Away,L,0,2,Manchester City,0.3,2.2,20.0,4.0,2.0,14.9,0.0,0,0,SheffieldUnited
+21,Sun,Home,D,2,2,West Ham United,2.5,2.3,57.0,20.0,5.0,18.5,1.0,1,1,SheffieldUnited
+22,Tue,Away,L,2,3,Crystal Palace,0.8,1.1,47.0,9.0,5.0,16.5,0.0,0,0,SheffieldUnited
+23,Sat,Home,L,0,5,Aston Villa,1.4,2.2,37.0,10.0,4.0,10.0,0.0,0,0,SheffieldUnited
+24,Sat,Away,W,3,1,Luton Town,1.7,1.8,26.0,6.0,2.0,22.4,0.0,1,1,SheffieldUnited
+25,Sun,Home,L,0,5,Brighton and Hove Albion,0.6,2.9,21.0,6.0,1.0,18.7,0.0,0,0,SheffieldUnited
+26,Sun,Away,L,0,1,Wolverhampton Wanderers,0.6,1.3,37.0,12.0,4.0,16.3,0.0,0,0,SheffieldUnited
+27,Mon,Home,L,0,6,Arsenal,0.2,2.3,20.0,4.0,0.0,21.8,0.0,0,0,SheffieldUnited
+28,Sat,Away,D,2,2,AFC Bournemouth,1.2,3.3,31.0,13.0,9.0,14.3,0.0,0,0,SheffieldUnited
+30,Sat,Home,D,3,3,Fulham,1.9,1.3,27.0,8.0,4.0,15.7,0.0,0,0,SheffieldUnited
+31,Thu,Away,L,1,3,Liverpool,0.6,1.8,18.0,5.0,3.0,13.6,1.0,0,0,SheffieldUnited
+32,Sun,Home,D,2,2,Chelsea,1.4,0.3,32.0,11.0,5.0,15.2,0.0,0,0,SheffieldUnited
+33,Sat,Away,L,0,2,Brentford,0.8,1.0,47.0,8.0,2.0,15.1,0.0,0,0,SheffieldUnited
+34,Sat,Home,L,1,4,Burnley,2.4,2.2,49.0,18.0,11.0,14.9,0.0,0,0,SheffieldUnited
+29,Wed,Away,L,2,4,Manchester Utd,0.8,2.9,29.0,10.0,4.0,17.8,1.0,0,0,SheffieldUnited
+35,Sat,Away,L,1,5,Newcastle United,1.5,3.1,40.0,15.0,4.0,13.5,0.0,0,0,SheffieldUnited
+36,Sat,Home,L,1,3,Nott'ham Forest,2.2,1.5,54.0,16.0,4.0,18.0,0.0,1,1,SheffieldUnited
+37,Sat,Away,L,0,1,Everton,0.6,2.3,42.0,13.0,1.0,21.0,0.0,0,0,SheffieldUnited
+38,Sun,Home,L,0,3,Tottenham Hotspur,1.0,3.1,25.0,6.0,1.0,18.0,1.0,0,0,SheffieldUnited
