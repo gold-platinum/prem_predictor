@@ -2,7 +2,7 @@
 
 ![Prem_Predictor Diagram](images/prem_predictor_diagram.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/88NFpvmHZb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Prem Predictor video](https://img.youtube.com/vi/88NFpvmHZb8/hqdefault.jpg)](https://www.youtube.com/embed/88NFpvmHZb8)
 
 ## Author
 This program was developed by Venkat Saharsh Pasupuleti for AP CSP summer homework
@@ -15,22 +15,34 @@ XGBoost Model with 40% model accuracy
 
 ## Installation
 Ensure you have Python 3.7 or higher installed on your system.
+
 Install the required packages
+
 ```pip install -r requirements.txt```
 
 ## Usage
 Run the program using
+
 ```python sample.py```
 
 When prompted: 
+
 Home Team: Enter the full name of the home team
+
 Example: Manchester City
+
 Use complete official team names (see supported teams below)
+
 Away Team: Enter the full name of the away team
+
 Example: Arsenal
+
 Must be different from the home team
+
 Day of Week: Enter the day abbreviation
+
 Valid options: Mon, Tue, Wed, Thu, Fri, Sat, Sun
+
 Example: Sat
 
 ### Supported Teams
@@ -59,7 +71,9 @@ Wolverhampton Wanderers
 
 ### Input Rules
 Team names are case-sensitive and must match exactly
+
 Teams must be different (cannot predict a team playing itself)
+
 Day must be a valid 3-letter abbreviation
 If a team is not recognized, the program will use default statistics
 
@@ -78,4 +92,5 @@ Away Win: Probability the away team wins
 Dataset: https://www.kaggle.com/datasets/mertbayraktar/english-premier-league-matches-20232024-season?resource=download
 
 ### ⚠️ Warning: Model is not very accurate. Proceed with caution.
+
 
