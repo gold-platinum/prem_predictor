@@ -1,7 +1,8 @@
-# 🦁⚽ Prem Predicter
+# 🦁⚽ Prem Predictor
 
 ![Prem_Predictor Diagram](images/prem_predictor_diagram.png)
 
+## Video
 [![Prem Predictor video](https://img.youtube.com/vi/88NFpvmHZb8/hqdefault.jpg)](https://www.youtube.com/embed/88NFpvmHZb8)
 
 ## Author
@@ -92,5 +93,6 @@ Away Win: Probability the away team wins
 Dataset: https://www.kaggle.com/datasets/mertbayraktar/english-premier-league-matches-20232024-season?resource=download
 
 ### ⚠️ Warning: Model is not very accurate. Proceed with caution.
+
 
 
