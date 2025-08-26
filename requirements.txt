@@ -5,3 +5,4 @@ scikit-learn
 bs4
 requests
 xgboost
+joblib
