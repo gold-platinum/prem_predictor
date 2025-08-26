@@ -2,6 +2,8 @@
 
 ![Prem_Predictor Diagram](images/prem_predictor_diagram.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/88NFpvmHZb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Author
 This program was developed by Venkat Saharsh Pasupuleti for AP CSP summer homework
 
@@ -18,7 +20,7 @@ Install the required packages
 
 ## Usage
 Run the program using
-```python showcase.py```
+```python sample.py```
 
 When prompted: 
 Home Team: Enter the full name of the home team
@@ -76,3 +78,4 @@ Away Win: Probability the away team wins
 Dataset: https://www.kaggle.com/datasets/mertbayraktar/english-premier-league-matches-20232024-season?resource=download
 
 ### ⚠️ Warning: Model is not very accurate. Proceed with caution.
+
